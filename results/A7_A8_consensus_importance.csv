@@ -1,0 +1,193 @@
+Family,Outcome,Label,Direction,Threshold,Group,ConsensusRank
+Benchmark,A1,Up $5k,Up,5000,Demographics,1.8333333333333333
+Benchmark,A1,Up $5k,Up,5000,Education,4.0
+Benchmark,A1,Up $5k,Up,5000,Family / employment,7.333333333333333
+Benchmark,A1,Up $5k,Up,5000,Geography,6.833333333333333
+Benchmark,A1,Up $5k,Up,5000,Income,2.5
+Benchmark,A1,Up $5k,Up,5000,Industry,6.833333333333333
+Benchmark,A1,Up $5k,Up,5000,Occupation,5.0
+Benchmark,A1,Up $5k,Up,5000,Wealth,1.6666666666666667
+Benchmark,A2,Up $10k,Up,10000,Demographics,2.0
+Benchmark,A2,Up $10k,Up,10000,Education,4.0
+Benchmark,A2,Up $10k,Up,10000,Family / employment,7.166666666666667
+Benchmark,A2,Up $10k,Up,10000,Geography,7.0
+Benchmark,A2,Up $10k,Up,10000,Income,2.3333333333333335
+Benchmark,A2,Up $10k,Up,10000,Industry,6.833333333333333
+Benchmark,A2,Up $10k,Up,10000,Occupation,5.0
+Benchmark,A2,Up $10k,Up,10000,Wealth,1.6666666666666667
+Benchmark,A3,Up $15k,Up,15000,Demographics,2.0
+Benchmark,A3,Up $15k,Up,15000,Education,4.0
+Benchmark,A3,Up $15k,Up,15000,Family / employment,7.166666666666667
+Benchmark,A3,Up $15k,Up,15000,Geography,6.5
+Benchmark,A3,Up $15k,Up,15000,Income,2.5
+Benchmark,A3,Up $15k,Up,15000,Industry,7.0
+Benchmark,A3,Up $15k,Up,15000,Occupation,5.333333333333333
+Benchmark,A3,Up $15k,Up,15000,Wealth,1.5
+Benchmark,A4,Up $20k,Up,20000,Demographics,1.5
+Benchmark,A4,Up $20k,Up,20000,Education,4.0
+Benchmark,A4,Up $20k,Up,20000,Family / employment,7.666666666666667
+Benchmark,A4,Up $20k,Up,20000,Geography,5.833333333333333
+Benchmark,A4,Up $20k,Up,20000,Income,2.1666666666666665
+Benchmark,A4,Up $20k,Up,20000,Industry,7.166666666666667
+Benchmark,A4,Up $20k,Up,20000,Occupation,5.333333333333333
+Benchmark,A4,Up $20k,Up,20000,Wealth,2.3333333333333335
+Benchmark,A5,Down $5k,Down,5000,Demographics,2.0
+Benchmark,A5,Down $5k,Down,5000,Education,4.0
+Benchmark,A5,Down $5k,Down,5000,Family / employment,7.666666666666667
+Benchmark,A5,Down $5k,Down,5000,Geography,6.666666666666667
+Benchmark,A5,Down $5k,Down,5000,Income,1.1666666666666667
+Benchmark,A5,Down $5k,Down,5000,Industry,6.666666666666667
+Benchmark,A5,Down $5k,Down,5000,Occupation,5.0
+Benchmark,A5,Down $5k,Down,5000,Wealth,2.8333333333333335
+Benchmark,A6,Down $10k,Down,10000,Demographics,1.8333333333333333
+Benchmark,A6,Down $10k,Down,10000,Education,4.166666666666667
+Benchmark,A6,Down $10k,Down,10000,Family / employment,8.0
+Benchmark,A6,Down $10k,Down,10000,Geography,6.333333333333333
+Benchmark,A6,Down $10k,Down,10000,Income,1.1666666666666667
+Benchmark,A6,Down $10k,Down,10000,Industry,6.333333333333333
+Benchmark,A6,Down $10k,Down,10000,Occupation,5.166666666666667
+Benchmark,A6,Down $10k,Down,10000,Wealth,3.0
+Benchmark,A7,Down $15k,Down,15000,Demographics,1.6666666666666667
+Benchmark,A7,Down $15k,Down,15000,Education,4.333333333333333
+Benchmark,A7,Down $15k,Down,15000,Family / employment,7.5
+Benchmark,A7,Down $15k,Down,15000,Geography,6.833333333333333
+Benchmark,A7,Down $15k,Down,15000,Income,1.3333333333333333
+Benchmark,A7,Down $15k,Down,15000,Industry,6.666666666666667
+Benchmark,A7,Down $15k,Down,15000,Occupation,4.666666666666667
+Benchmark,A7,Down $15k,Down,15000,Wealth,3.0
+Benchmark,A8,Down $20k,Down,20000,Demographics,1.3333333333333333
+Benchmark,A8,Down $20k,Down,20000,Education,3.8333333333333335
+Benchmark,A8,Down $20k,Down,20000,Family / employment,7.833333333333333
+Benchmark,A8,Down $20k,Down,20000,Geography,7.0
+Benchmark,A8,Down $20k,Down,20000,Income,1.6666666666666667
+Benchmark,A8,Down $20k,Down,20000,Industry,6.166666666666667
+Benchmark,A8,Down $20k,Down,20000,Occupation,4.833333333333333
+Benchmark,A8,Down $20k,Down,20000,Wealth,3.3333333333333335
+Parent-child absolute,I1,Up $5k,Up,5000,Demographics,2.0
+Parent-child absolute,I1,Up $5k,Up,5000,Education,6.833333333333333
+Parent-child absolute,I1,Up $5k,Up,5000,Family / employment,4.833333333333333
+Parent-child absolute,I1,Up $5k,Up,5000,Geography,6.0
+Parent-child absolute,I1,Up $5k,Up,5000,Income,1.0
+Parent-child absolute,I1,Up $5k,Up,5000,Industry,3.5
+Parent-child absolute,I1,Up $5k,Up,5000,Occupation,6.666666666666667
+Parent-child absolute,I1,Up $5k,Up,5000,Wealth,5.166666666666667
+Parent-child absolute,I2,Up $10k,Up,10000,Demographics,2.0
+Parent-child absolute,I2,Up $10k,Up,10000,Education,5.833333333333333
+Parent-child absolute,I2,Up $10k,Up,10000,Family / employment,5.333333333333333
+Parent-child absolute,I2,Up $10k,Up,10000,Geography,6.5
+Parent-child absolute,I2,Up $10k,Up,10000,Income,1.0
+Parent-child absolute,I2,Up $10k,Up,10000,Industry,4.166666666666667
+Parent-child absolute,I2,Up $10k,Up,10000,Occupation,6.0
+Parent-child absolute,I2,Up $10k,Up,10000,Wealth,5.166666666666667
+Parent-child absolute,I3,Up $15k,Up,15000,Demographics,2.0
+Parent-child absolute,I3,Up $15k,Up,15000,Education,5.833333333333333
+Parent-child absolute,I3,Up $15k,Up,15000,Family / employment,4.333333333333333
+Parent-child absolute,I3,Up $15k,Up,15000,Geography,7.166666666666667
+Parent-child absolute,I3,Up $15k,Up,15000,Income,1.0
+Parent-child absolute,I3,Up $15k,Up,15000,Industry,5.333333333333333
+Parent-child absolute,I3,Up $15k,Up,15000,Occupation,5.666666666666667
+Parent-child absolute,I3,Up $15k,Up,15000,Wealth,4.666666666666667
+Parent-child absolute,I4,Up $20k,Up,20000,Demographics,2.0
+Parent-child absolute,I4,Up $20k,Up,20000,Education,4.5
+Parent-child absolute,I4,Up $20k,Up,20000,Family / employment,7.333333333333333
+Parent-child absolute,I4,Up $20k,Up,20000,Geography,3.8333333333333335
+Parent-child absolute,I4,Up $20k,Up,20000,Income,1.0
+Parent-child absolute,I4,Up $20k,Up,20000,Industry,5.666666666666667
+Parent-child absolute,I4,Up $20k,Up,20000,Occupation,7.333333333333333
+Parent-child absolute,I4,Up $20k,Up,20000,Wealth,4.333333333333333
+Parent-child absolute,I5,Down $5k,Down,5000,Demographics,2.0
+Parent-child absolute,I5,Down $5k,Down,5000,Education,4.833333333333333
+Parent-child absolute,I5,Down $5k,Down,5000,Family / employment,5.833333333333333
+Parent-child absolute,I5,Down $5k,Down,5000,Geography,7.666666666666667
+Parent-child absolute,I5,Down $5k,Down,5000,Income,1.0
+Parent-child absolute,I5,Down $5k,Down,5000,Industry,4.333333333333333
+Parent-child absolute,I5,Down $5k,Down,5000,Occupation,5.666666666666667
+Parent-child absolute,I5,Down $5k,Down,5000,Wealth,4.666666666666667
+Parent-child absolute,I6,Down $10k,Down,10000,Demographics,2.0
+Parent-child absolute,I6,Down $10k,Down,10000,Education,5.166666666666667
+Parent-child absolute,I6,Down $10k,Down,10000,Family / employment,6.833333333333333
+Parent-child absolute,I6,Down $10k,Down,10000,Geography,5.833333333333333
+Parent-child absolute,I6,Down $10k,Down,10000,Income,1.0
+Parent-child absolute,I6,Down $10k,Down,10000,Industry,5.666666666666667
+Parent-child absolute,I6,Down $10k,Down,10000,Occupation,6.333333333333333
+Parent-child absolute,I6,Down $10k,Down,10000,Wealth,3.1666666666666665
+Parent-child absolute,I7,Down $15k,Down,15000,Demographics,2.1666666666666665
+Parent-child absolute,I7,Down $15k,Down,15000,Education,5.666666666666667
+Parent-child absolute,I7,Down $15k,Down,15000,Family / employment,6.833333333333333
+Parent-child absolute,I7,Down $15k,Down,15000,Geography,5.833333333333333
+Parent-child absolute,I7,Down $15k,Down,15000,Income,1.0
+Parent-child absolute,I7,Down $15k,Down,15000,Industry,6.0
+Parent-child absolute,I7,Down $15k,Down,15000,Occupation,5.666666666666667
+Parent-child absolute,I7,Down $15k,Down,15000,Wealth,2.8333333333333335
+Parent-child absolute,I8,Down $20k,Down,20000,Demographics,2.3333333333333335
+Parent-child absolute,I8,Down $20k,Down,20000,Education,7.333333333333333
+Parent-child absolute,I8,Down $20k,Down,20000,Family / employment,5.5
+Parent-child absolute,I8,Down $20k,Down,20000,Geography,5.666666666666667
+Parent-child absolute,I8,Down $20k,Down,20000,Income,1.0
+Parent-child absolute,I8,Down $20k,Down,20000,Industry,5.5
+Parent-child absolute,I8,Down $20k,Down,20000,Occupation,6.0
+Parent-child absolute,I8,Down $20k,Down,20000,Wealth,2.6666666666666665
+Relative,DV1,Up 10 pp,Up,10,Demographics,2.0
+Relative,DV1,Up 10 pp,Up,10,Education,6.833333333333333
+Relative,DV1,Up 10 pp,Up,10,Family / employment,3.3333333333333335
+Relative,DV1,Up 10 pp,Up,10,Geography,5.833333333333333
+Relative,DV1,Up 10 pp,Up,10,Income,1.0
+Relative,DV1,Up 10 pp,Up,10,Industry,5.333333333333333
+Relative,DV1,Up 10 pp,Up,10,Occupation,5.666666666666667
+Relative,DV1,Up 10 pp,Up,10,Wealth,6.0
+Relative,DV2,Up 20 pp,Up,20,Demographics,2.0
+Relative,DV2,Up 20 pp,Up,20,Education,4.833333333333333
+Relative,DV2,Up 20 pp,Up,20,Family / employment,5.0
+Relative,DV2,Up 20 pp,Up,20,Geography,4.833333333333333
+Relative,DV2,Up 20 pp,Up,20,Income,1.0
+Relative,DV2,Up 20 pp,Up,20,Industry,7.666666666666667
+Relative,DV2,Up 20 pp,Up,20,Occupation,7.0
+Relative,DV2,Up 20 pp,Up,20,Wealth,3.6666666666666665
+Relative,DV3,Up 30 pp,Up,30,Demographics,2.1666666666666665
+Relative,DV3,Up 30 pp,Up,30,Education,7.666666666666667
+Relative,DV3,Up 30 pp,Up,30,Family / employment,4.833333333333333
+Relative,DV3,Up 30 pp,Up,30,Geography,4.5
+Relative,DV3,Up 30 pp,Up,30,Income,1.0
+Relative,DV3,Up 30 pp,Up,30,Industry,6.666666666666667
+Relative,DV3,Up 30 pp,Up,30,Occupation,6.333333333333333
+Relative,DV3,Up 30 pp,Up,30,Wealth,2.8333333333333335
+Relative,DV4,Up 40 pp,Up,40,Demographics,3.0
+Relative,DV4,Up 40 pp,Up,40,Education,4.666666666666667
+Relative,DV4,Up 40 pp,Up,40,Family / employment,5.833333333333333
+Relative,DV4,Up 40 pp,Up,40,Geography,7.5
+Relative,DV4,Up 40 pp,Up,40,Income,1.0
+Relative,DV4,Up 40 pp,Up,40,Industry,6.666666666666667
+Relative,DV4,Up 40 pp,Up,40,Occupation,5.333333333333333
+Relative,DV4,Up 40 pp,Up,40,Wealth,2.0
+Relative,DV5,Down 10 pp,Down,10,Demographics,2.1666666666666665
+Relative,DV5,Down 10 pp,Down,10,Education,6.0
+Relative,DV5,Down 10 pp,Down,10,Family / employment,6.833333333333333
+Relative,DV5,Down 10 pp,Down,10,Geography,6.333333333333333
+Relative,DV5,Down 10 pp,Down,10,Income,1.0
+Relative,DV5,Down 10 pp,Down,10,Industry,5.333333333333333
+Relative,DV5,Down 10 pp,Down,10,Occupation,5.333333333333333
+Relative,DV5,Down 10 pp,Down,10,Wealth,3.0
+Relative,DV6,Down 20 pp,Down,20,Demographics,2.6666666666666665
+Relative,DV6,Down 20 pp,Down,20,Education,5.333333333333333
+Relative,DV6,Down 20 pp,Down,20,Family / employment,7.5
+Relative,DV6,Down 20 pp,Down,20,Geography,5.666666666666667
+Relative,DV6,Down 20 pp,Down,20,Income,1.0
+Relative,DV6,Down 20 pp,Down,20,Industry,5.666666666666667
+Relative,DV6,Down 20 pp,Down,20,Occupation,5.666666666666667
+Relative,DV6,Down 20 pp,Down,20,Wealth,2.5
+Relative,DV7,Down 30 pp,Down,30,Demographics,3.0
+Relative,DV7,Down 30 pp,Down,30,Education,6.333333333333333
+Relative,DV7,Down 30 pp,Down,30,Family / employment,7.666666666666667
+Relative,DV7,Down 30 pp,Down,30,Geography,5.166666666666667
+Relative,DV7,Down 30 pp,Down,30,Income,1.0
+Relative,DV7,Down 30 pp,Down,30,Industry,4.0
+Relative,DV7,Down 30 pp,Down,30,Occupation,6.666666666666667
+Relative,DV7,Down 30 pp,Down,30,Wealth,2.1666666666666665
+Relative,DV8,Down 40 pp,Down,40,Demographics,3.6666666666666665
+Relative,DV8,Down 40 pp,Down,40,Education,6.666666666666667
+Relative,DV8,Down 40 pp,Down,40,Family / employment,7.666666666666667
+Relative,DV8,Down 40 pp,Down,40,Geography,4.333333333333333
+Relative,DV8,Down 40 pp,Down,40,Income,1.0
+Relative,DV8,Down 40 pp,Down,40,Industry,2.6666666666666665
+Relative,DV8,Down 40 pp,Down,40,Occupation,6.666666666666667
+Relative,DV8,Down 40 pp,Down,40,Wealth,3.3333333333333335

@@ -1,0 +1,6 @@
+Outer fold,Best parameters,Inner weighted AUC
+1,"{""learning_rate"": 0.03, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 150}",0.7280490334119708
+2,"{""learning_rate"": 0.03, ""max_depth"": 2, ""min_samples_leaf"": 5, ""n_estimators"": 250}",0.7113833169336679
+3,"{""learning_rate"": 0.03, ""max_depth"": 2, ""min_samples_leaf"": 5, ""n_estimators"": 150}",0.7115920966299264
+4,"{""learning_rate"": 0.03, ""max_depth"": 2, ""min_samples_leaf"": 5, ""n_estimators"": 150}",0.7207431246294437
+5,"{""learning_rate"": 0.03, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 250}",0.7266118345392081

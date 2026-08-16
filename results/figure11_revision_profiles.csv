@@ -1,0 +1,19 @@
+Revision Group,Characteristic,Share
+Lower than income-only,High wealth,0.19499840569571156
+Lower than income-only,College,0.08311516661159546
+Lower than income-only,Black,0.3264534328192412
+Lower than income-only,Married,0.6927177030880358
+Lower than income-only,South,0.281613228763929
+Lower than income-only,Female,0.25818184043281267
+Middle 80%,High wealth,0.48433030818924694
+Middle 80%,College,0.15233409106072274
+Middle 80%,Black,0.21253855791697535
+Middle 80%,Married,0.6963090630323859
+Middle 80%,South,0.3183333028106773
+Middle 80%,Female,0.24966595357498125
+Higher than income-only,High wealth,0.9309736281771879
+Higher than income-only,College,0.24733676290020598
+Higher than income-only,Black,0.033074265445452354
+Higher than income-only,Married,0.8354344115414105
+Higher than income-only,South,0.17776189344594934
+Higher than income-only,Female,0.09480150858108245

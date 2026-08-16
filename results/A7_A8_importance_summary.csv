@@ -1,0 +1,1153 @@
+Family,Outcome,Label,Direction,Threshold,Model,Method,Group,Value,FoldSD,Rank
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,Impurity,Demographics,0.24904657950300205,0.02824432102942862,3.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,Impurity,Education,0.0844895234260378,0.02910671656352489,4.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,Impurity,Family / employment,0.014763131175956007,0.007777942973231905,8.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,Impurity,Geography,0.020362282501746543,0.010530841535953569,7.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,Impurity,Income,0.25245495842045873,0.04535103998447925,2.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,Impurity,Industry,0.0331020758130934,0.019517316873477245,6.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,Impurity,Occupation,0.06196467533920741,0.021509625959611027,5.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,Impurity,Wealth,0.2838167738204981,0.027865187292954098,1.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,Permutation,Demographics,0.04352231497999974,0.014894501712840095,1.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,Permutation,Education,0.010093301918392082,0.00747252779656522,4.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,Permutation,Family / employment,-0.000865211537059698,0.002064282831809582,6.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,Permutation,Geography,-0.0011349418684117962,0.0032987617406274278,7.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,Permutation,Income,0.030602318155603946,0.006568389737229876,3.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,Permutation,Industry,-0.00470870428118658,0.008314266164911972,8.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,Permutation,Occupation,0.0003528592545201648,0.002032754827910643,5.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,Permutation,Wealth,0.036276760823121604,0.00463276733167232,2.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,SHAP,Demographics,0.2599697963163635,0.03197821131861356,1.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,SHAP,Education,0.13305870369297312,0.030165134682623815,4.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,SHAP,Family / employment,0.014973158727222807,0.006870164384977321,8.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,SHAP,Geography,0.039265381134312285,0.0162390663410078,7.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,SHAP,Income,0.20228236269606387,0.021273615500560002,3.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,SHAP,Industry,0.05697749487681377,0.028800417217646607,6.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,SHAP,Occupation,0.08450213039811277,0.028596236083885843,5.0
+Benchmark,A1,Up $5k,Up,5000,Gradient Boosting,SHAP,Wealth,0.2089709721581378,0.024329301451679962,2.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,Impurity,Demographics,0.23605162432179996,0.01922200161884797,3.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,Impurity,Education,0.09929060367327947,0.0058324083341753374,4.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,Impurity,Family / employment,0.03181901837826615,0.0072882351146996436,8.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,Impurity,Geography,0.03236842267132365,0.005818934117963649,7.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,Impurity,Income,0.23856767484866329,0.008789069667750324,2.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,Impurity,Industry,0.04551539442281607,0.0043132071010910135,6.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,Impurity,Occupation,0.0721394363033114,0.010162103565081718,5.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,Impurity,Wealth,0.24424782538054016,0.015275965750314096,1.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,Permutation,Demographics,0.030134108651111807,0.006518687616485782,2.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,Permutation,Education,0.008044304641993497,0.006520076919237564,4.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,Permutation,Family / employment,-0.0018712262939256663,0.002406898908250358,8.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,Permutation,Geography,-0.0011867010895532063,0.003904219717072341,6.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,Permutation,Income,0.028484135185635962,0.002913151700983332,3.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,Permutation,Industry,-0.0014441502174556053,0.0018162578364466352,7.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,Permutation,Occupation,-0.0006154229760089702,0.0032129075900367053,5.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,Permutation,Wealth,0.035725154338425845,0.0065885893436603135,1.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,SHAP,Demographics,0.24746889087342266,0.028650804204575497,1.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,SHAP,Education,0.12631254775498807,0.012121069725676907,4.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,SHAP,Family / employment,0.036344746216566484,0.009374141209997957,6.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,SHAP,Geography,0.033703621147297136,0.013424741634495294,7.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,SHAP,Income,0.22717703050493904,0.011382806308743096,2.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,SHAP,Industry,0.032297463689951886,0.006402965020658725,8.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,SHAP,Occupation,0.07329281165972117,0.011980415871322645,5.0
+Benchmark,A1,Up $5k,Up,5000,Random Forest,SHAP,Wealth,0.22340288815311365,0.012261590198602963,3.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,Impurity,Demographics,0.2408357566704474,0.032400878131957564,3.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,Impurity,Education,0.08667064966791432,0.02785975106251594,4.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,Impurity,Family / employment,0.020541917655873865,0.015293915293923864,7.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,Impurity,Geography,0.016696291407287935,0.008353745119415893,8.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,Impurity,Income,0.24916453970880487,0.05208825042263666,2.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,Impurity,Industry,0.029164807558290075,0.006276684771521921,6.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,Impurity,Occupation,0.05214883442094208,0.010040066433309233,5.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,Impurity,Wealth,0.30477720291043936,0.06064785428029853,1.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,Permutation,Demographics,0.04414062638503165,0.009319643152637376,1.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,Permutation,Education,0.01363060531090483,0.007197323880435019,4.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,Permutation,Family / employment,-0.001732753987402049,0.005997275688017424,7.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,Permutation,Geography,0.00043268353217599365,0.001874303793677492,6.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,Permutation,Income,0.030735737955128618,0.01002074528544002,3.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,Permutation,Industry,-0.0036203068198014674,0.0033285189861492342,8.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,Permutation,Occupation,0.0024590827639425173,0.005456301255735924,5.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,Permutation,Wealth,0.03404463807195896,0.01015582177466113,2.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,SHAP,Demographics,0.25634554250674224,0.02233187671853001,1.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,SHAP,Education,0.14865652105714205,0.03251651375060262,4.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,SHAP,Family / employment,0.033381644139010715,0.02735500675306914,8.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,SHAP,Geography,0.03769395299176076,0.018132231038192757,7.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,SHAP,Income,0.1920479931684692,0.027050550656307303,3.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,SHAP,Industry,0.04660519289222066,0.01406367282510077,6.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,SHAP,Occupation,0.06829226227477254,0.01436050034838683,5.0
+Benchmark,A2,Up $10k,Up,10000,Gradient Boosting,SHAP,Wealth,0.2169768909698818,0.040442417414684156,2.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,Impurity,Demographics,0.22554166232977785,0.02040794671360049,3.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,Impurity,Education,0.09348686287075186,0.007177877111674285,4.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,Impurity,Family / employment,0.041987235656594804,0.014934559277806092,7.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,Impurity,Geography,0.039164190080628776,0.014013225071996026,8.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,Impurity,Income,0.23748694988327096,0.02587098804444689,2.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,Impurity,Industry,0.0471463091917796,0.004778303889552752,6.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,Impurity,Occupation,0.06926755187855396,0.007598616290014946,5.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,Impurity,Wealth,0.24591923810864222,0.02153172554204884,1.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,Permutation,Demographics,0.031650930554009506,0.008182891167978192,3.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,Permutation,Education,0.009122223951422195,0.009613216134671615,4.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,Permutation,Family / employment,-0.0033894007841323466,0.0072002909406165055,8.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,Permutation,Geography,-0.000135093805660813,0.005572520881383813,6.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,Permutation,Income,0.03282133983278669,0.011403758058421058,1.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,Permutation,Industry,-0.0026267334026370457,0.002545732407527209,7.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,Permutation,Occupation,0.001615372657729075,0.0029906969131234125,5.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,Permutation,Wealth,0.03241281041339839,0.01103382088605046,2.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,SHAP,Demographics,0.23185449310784367,0.026402433555975505,1.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,SHAP,Education,0.13098682988929516,0.011859756333716524,4.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,SHAP,Family / employment,0.05132450419475658,0.021056872209445653,6.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,SHAP,Geography,0.03994061073630058,0.020439429625154458,7.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,SHAP,Income,0.2164349574264186,0.02122552235563469,3.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,SHAP,Industry,0.034913008465626526,0.0036884541658400815,8.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,SHAP,Occupation,0.06816078645270596,0.009199750539940425,5.0
+Benchmark,A2,Up $10k,Up,10000,Random Forest,SHAP,Wealth,0.22638480972705297,0.023407096276553997,2.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,Impurity,Demographics,0.2575941603367972,0.0128241277214397,2.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,Impurity,Education,0.0939089318099691,0.023922630638710016,4.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,Impurity,Family / employment,0.01750480711417688,0.008283737623173533,8.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,Impurity,Geography,0.018020118847327897,0.003658092787968056,7.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,Impurity,Income,0.24855438519867654,0.03349523819864784,3.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,Impurity,Industry,0.02676389497145416,0.007307285637138251,6.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,Impurity,Occupation,0.049705046184696657,0.014317500356919102,5.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,Impurity,Wealth,0.28794865553690163,0.026264360937041653,1.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,Permutation,Demographics,0.04437310720242403,0.011494545748838096,1.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,Permutation,Education,0.010892745667531008,0.00334737853769297,4.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,Permutation,Family / employment,0.00025275285777915486,0.002226925821372176,5.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,Permutation,Geography,-0.0009361225448346711,0.0016342789353008963,6.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,Permutation,Income,0.03525837423307995,0.010505171836338052,2.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,Permutation,Industry,-0.0013313117444976297,0.002170082166087011,8.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,Permutation,Occupation,-0.0009955776194152622,0.004826944344084357,7.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,Permutation,Wealth,0.031258495053922426,0.006557784342181776,3.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,SHAP,Demographics,0.2699195503660159,0.03013826127508584,1.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,SHAP,Education,0.15850865922518653,0.024974615307446803,4.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,SHAP,Family / employment,0.026667578378247646,0.010045161130676494,8.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,SHAP,Geography,0.035056141497211486,0.007862028283358635,7.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,SHAP,Income,0.1945009271185919,0.010913971218725387,3.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,SHAP,Industry,0.048828220788006714,0.012139195326375156,6.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,SHAP,Occupation,0.06162204023689175,0.01864553466959269,5.0
+Benchmark,A3,Up $15k,Up,15000,Gradient Boosting,SHAP,Wealth,0.20489688238984796,0.029110397427647552,2.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,Impurity,Demographics,0.22550686522164343,0.010880874435637372,3.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,Impurity,Education,0.09390308254637658,0.008015281496126304,4.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,Impurity,Family / employment,0.033735527343178154,0.004700169874686736,8.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,Impurity,Geography,0.04440704039362733,0.008507111591849489,7.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,Impurity,Income,0.23610359113351972,0.011466034984999993,2.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,Impurity,Industry,0.04496529297114776,0.002776683356108795,6.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,Impurity,Occupation,0.06824707884724056,0.008873860580480418,5.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,Impurity,Wealth,0.2531315215432665,0.019413420658443734,1.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,Permutation,Demographics,0.028652196641561194,0.0036139867272572033,3.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,Permutation,Education,0.008193683011160404,0.003943049341787006,4.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,Permutation,Family / employment,-0.00186622444378604,0.003883602780624289,7.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,Permutation,Geography,-3.968766915346642e-05,0.0020148491079442967,6.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,Permutation,Income,0.037978952767021,0.00823455954045147,2.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,Permutation,Industry,-0.0022365396750948915,0.003314458905150148,8.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,Permutation,Occupation,0.0012636436812155905,0.0025872361247558863,5.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,Permutation,Wealth,0.041758672421620666,0.01129629825954314,1.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,SHAP,Demographics,0.22941743301000642,0.015549772824103315,2.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,SHAP,Education,0.1334177217121351,0.01346055757222942,4.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,SHAP,Family / employment,0.04394230985057214,0.006984478517383515,7.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,SHAP,Geography,0.050623560667305535,0.013347952307349177,6.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,SHAP,Income,0.20932914405387537,0.010942065868277949,3.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,SHAP,Industry,0.03536375606948059,0.006079954956958686,8.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,SHAP,Occupation,0.06168918936286703,0.007478660859520286,5.0
+Benchmark,A3,Up $15k,Up,15000,Random Forest,SHAP,Wealth,0.23621688527375784,0.025494074127720968,1.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,Impurity,Demographics,0.2621924662948249,0.03603947267278375,2.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,Impurity,Education,0.08309346497903496,0.015025885006598098,4.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,Impurity,Family / employment,0.012344360742864987,0.005204991939559182,8.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,Impurity,Geography,0.02272046231529682,0.012485790559022929,7.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,Impurity,Income,0.25926006429080395,0.0411151586138668,3.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,Impurity,Industry,0.02512463418267379,0.007425457984094817,6.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,Impurity,Occupation,0.05203828902338409,0.01820583328255025,5.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,Impurity,Wealth,0.2832262581711166,0.05066778247894824,1.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,Permutation,Demographics,0.06258897275719708,0.005687216168936249,1.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,Permutation,Education,0.013253651583955597,0.002838071468688472,4.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,Permutation,Family / employment,-0.0012235778224670923,0.00137267695033359,7.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,Permutation,Geography,0.0002456871315169896,0.003188009440431826,5.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,Permutation,Income,0.034599776035933304,0.011507305529541654,2.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,Permutation,Industry,-0.0029524980402101486,0.0027695195505675137,8.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,Permutation,Occupation,-0.0009363911698776218,0.004302058849266449,6.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,Permutation,Wealth,0.024881518755589388,0.008460347533086667,3.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,SHAP,Demographics,0.30228777807169244,0.030463153345845508,1.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,SHAP,Education,0.14245379468416303,0.012666208456178036,4.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,SHAP,Family / employment,0.017553102959031258,0.008563033195806221,8.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,SHAP,Geography,0.044770430261548214,0.022830766957312804,6.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,SHAP,Income,0.19729821009419823,0.027346262421841794,2.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,SHAP,Industry,0.03946076250688665,0.011391880402908568,7.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,SHAP,Occupation,0.06712767726099077,0.023887519147681502,5.0
+Benchmark,A4,Up $20k,Up,20000,Gradient Boosting,SHAP,Wealth,0.18904824416148952,0.026696667161441763,3.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,Impurity,Demographics,0.2374379866498705,0.022327387753369718,3.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,Impurity,Education,0.0882582271504209,0.005646071766022013,4.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,Impurity,Family / employment,0.028083710653301897,0.004484397169743353,8.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,Impurity,Geography,0.049805289995135095,0.010940279628984195,6.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,Impurity,Income,0.24339452379005047,0.011996546241261332,1.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,Impurity,Industry,0.04441323810638378,0.003998798165050279,7.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,Impurity,Occupation,0.06701128208896331,0.005670330093698645,5.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,Impurity,Wealth,0.24159574156587404,0.015814127437601234,2.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,Permutation,Demographics,0.03992561725704579,0.006169079389369098,1.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,Permutation,Education,0.011781356449476723,0.005753775969749755,4.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,Permutation,Family / employment,-4.6230629108219305e-05,0.0023694752413267496,7.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,Permutation,Geography,0.0009137192669449467,0.002713432176239959,5.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,Permutation,Income,0.03611281900706448,0.009584706616320968,2.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,Permutation,Industry,-0.0013937695741108836,0.0017592370130730009,8.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,Permutation,Occupation,2.1594985479367368e-05,0.003862384443660296,6.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,Permutation,Wealth,0.03346129746633423,0.017452063657746413,3.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,SHAP,Demographics,0.2507057163651815,0.03087351686497227,1.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,SHAP,Education,0.128210445022372,0.0106640917381529,4.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,SHAP,Family / employment,0.029889284989470633,0.010150282279683506,8.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,SHAP,Geography,0.06066418475702706,0.01825403730868067,6.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,SHAP,Income,0.21038458536023028,0.02039233900700828,3.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,SHAP,Industry,0.034856452193693196,0.007082388883511886,7.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,SHAP,Occupation,0.06429474214170232,0.010104770246622737,5.0
+Benchmark,A4,Up $20k,Up,20000,Random Forest,SHAP,Wealth,0.22099458917032297,0.019701975825744896,2.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,Impurity,Demographics,0.2422864900649156,0.030390112636823487,2.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,Impurity,Education,0.09267000108688121,0.02044176555396175,4.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,Impurity,Family / employment,0.013930815745418748,0.00718645142209697,8.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,Impurity,Geography,0.017778772659600296,0.007285535823670033,7.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,Impurity,Income,0.29842720842350523,0.03526086261062967,1.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,Impurity,Industry,0.031359747230454794,0.005701997380520382,6.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,Impurity,Occupation,0.062244811289658156,0.011178338178316738,5.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,Impurity,Wealth,0.24130215349956607,0.03574998088336443,3.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,Permutation,Demographics,0.03170398287589092,0.004860841511126398,2.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,Permutation,Education,0.00830555091714634,0.003980113716013633,4.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,Permutation,Family / employment,-0.00013151396414569306,0.0003718094245664375,7.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,Permutation,Geography,-4.797576405356271e-05,0.0029614091687930146,6.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,Permutation,Income,0.035936612138840904,0.009978788961295306,1.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,Permutation,Industry,-0.0011167024079512754,0.003051683706491466,8.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,Permutation,Occupation,0.0016124972069872189,0.0033555659367936665,5.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,Permutation,Wealth,0.026167461677062426,0.004596657680435161,3.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,SHAP,Demographics,0.24978231050408217,0.049125300856758355,1.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,SHAP,Education,0.12443862838596917,0.022284734156039723,4.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,SHAP,Family / employment,0.01617120075155324,0.012035814813468285,8.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,SHAP,Geography,0.03346934482130222,0.014548787439016839,7.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,SHAP,Income,0.23539420681266984,0.015323790410002675,2.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,SHAP,Industry,0.060516995661159076,0.015445031458488924,6.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,SHAP,Occupation,0.08769036666644439,0.014953669817280458,5.0
+Benchmark,A5,Down $5k,Down,5000,Gradient Boosting,SHAP,Wealth,0.1925369463968199,0.016719225736477276,3.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,Impurity,Demographics,0.22371858559824517,0.022445114513905056,2.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,Impurity,Education,0.09969564789095324,0.01474446709679632,4.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,Impurity,Family / employment,0.031303405246104886,0.004478391412874585,8.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,Impurity,Geography,0.04028792008327554,0.010822967407699547,7.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,Impurity,Income,0.254756921104161,0.01052151584002961,1.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,Impurity,Industry,0.04884495241423695,0.0046655552446609625,6.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,Impurity,Occupation,0.08005992720815404,0.007998870579522633,5.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,Impurity,Wealth,0.22133264045486922,0.012901887024500326,3.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,Permutation,Demographics,0.02463458190296381,0.007783532785493879,3.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,Permutation,Education,0.005824797362755868,0.004856282110762371,4.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,Permutation,Family / employment,-0.0018178251219308904,0.0017426789280353748,7.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,Permutation,Geography,-0.0010030649622882661,0.004430154073440802,6.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,Permutation,Income,0.03072862560051438,0.006229918277662085,1.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,Permutation,Industry,-0.002201213092840709,0.0018674658337764567,8.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,Permutation,Occupation,0.0005339237892255123,0.0018285163453194695,5.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,Permutation,Wealth,0.02614723985517343,0.0031862146142671343,2.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,SHAP,Demographics,0.23599622180781782,0.037749791041534336,2.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,SHAP,Education,0.12644182510455007,0.015263155597624721,4.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,SHAP,Family / employment,0.03369049285127458,0.009292050771638034,8.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,SHAP,Geography,0.036436842283703634,0.016769038300150096,7.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,SHAP,Income,0.23600210468555027,0.010824724002066825,1.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,SHAP,Industry,0.038858721894113234,0.00729083348712874,6.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,SHAP,Occupation,0.08605070482352742,0.013913274644045513,5.0
+Benchmark,A5,Down $5k,Down,5000,Random Forest,SHAP,Wealth,0.20652308654946308,0.012397920876274952,3.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,Impurity,Demographics,0.25201259069074367,0.02253114538737213,2.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,Impurity,Education,0.07646575197466754,0.015584504212167043,4.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,Impurity,Family / employment,0.01745221605130138,0.01154246077640253,8.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,Impurity,Geography,0.02717769125885113,0.010100921826885975,7.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,Impurity,Income,0.31311744656033874,0.02988676613437795,1.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,Impurity,Industry,0.03499872121046737,0.0068824057884434835,6.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,Impurity,Occupation,0.07540953017696911,0.02040477163446793,5.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,Impurity,Wealth,0.20336605207666109,0.03478827590949655,3.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,Permutation,Demographics,0.03248717791349053,0.008223610552560238,2.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,Permutation,Education,0.007472852360960264,0.0030729084905155644,4.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,Permutation,Family / employment,-0.00229970872741291,0.0013330532368889334,8.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,Permutation,Geography,0.0014633831900895265,0.001928099076321453,5.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,Permutation,Income,0.043679256557464005,0.01616056667022995,1.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,Permutation,Industry,-0.0003104859532629344,0.00313861045447125,6.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,Permutation,Occupation,-0.0004172689719945144,0.0024179434654544177,7.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,Permutation,Wealth,0.01624650512387312,0.006059099813982862,3.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,SHAP,Demographics,0.23887733443299647,0.03715324189735533,2.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,SHAP,Education,0.09714778816705,0.018738688503915323,5.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,SHAP,Family / employment,0.021367684251887488,0.017006498439775593,8.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,SHAP,Geography,0.062226368902177656,0.024263813358605495,7.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,SHAP,Income,0.24191779466407085,0.015991703299256622,1.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,SHAP,Industry,0.06256716735951563,0.011512829110847543,6.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,SHAP,Occupation,0.09783022702575406,0.026675122224820363,4.0
+Benchmark,A6,Down $10k,Down,10000,Gradient Boosting,SHAP,Wealth,0.1780656351965479,0.025932054944499006,3.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,Impurity,Demographics,0.23357434872703706,0.015704534715362626,2.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,Impurity,Education,0.09070561712608538,0.014465192198252328,4.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,Impurity,Family / employment,0.03287883037026549,0.006990520840436174,8.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,Impurity,Geography,0.049342509609449345,0.01641809752050514,7.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,Impurity,Income,0.25935279331817335,0.011858260261876464,1.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,Impurity,Industry,0.055159398708922745,0.011605601074779526,6.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,Impurity,Occupation,0.0868032902447122,0.008714797136724394,5.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,Impurity,Wealth,0.1921832118953545,0.011675544672170263,3.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,Permutation,Demographics,0.029750529107898153,0.004034349633122431,2.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,Permutation,Education,0.007042251564202587,0.003938834660112714,4.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,Permutation,Family / employment,-0.0013861606510160971,0.0024820347857835035,8.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,Permutation,Geography,0.0005275347462612245,0.0018785923722399631,6.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,Permutation,Income,0.03708664722856344,0.013572017037211191,1.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,Permutation,Industry,-0.00016159931935077711,0.004096176205692236,7.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,Permutation,Occupation,0.0013206876259711565,0.002064837937412056,5.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,Permutation,Wealth,0.016982104933630372,0.004939533803489055,3.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,SHAP,Demographics,0.24287279104104273,0.01479933570186683,1.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,SHAP,Education,0.1148635343878404,0.01774430876678797,4.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,SHAP,Family / employment,0.03590255358642962,0.01706606029306271,8.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,SHAP,Geography,0.05263699508278571,0.024258480683812512,6.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,SHAP,Income,0.23950636000082165,0.014344175423666809,2.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,SHAP,Industry,0.043529997266896624,0.010103235583724848,7.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,SHAP,Occupation,0.09353283121086511,0.012135502703155158,5.0
+Benchmark,A6,Down $10k,Down,10000,Random Forest,SHAP,Wealth,0.17715493742331814,0.02076810964765883,3.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,Impurity,Demographics,0.27920689918143615,0.045103831863995324,2.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,Impurity,Education,0.08513490074197995,0.02893675214544169,5.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,Impurity,Family / employment,0.01355601016202207,0.003182584316057224,8.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,Impurity,Geography,0.01484750346941637,0.0049339533317067155,7.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,Impurity,Income,0.28658742498272904,0.01850545469030784,1.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,Impurity,Industry,0.04464161211062947,0.017153246942423112,6.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,Impurity,Occupation,0.09244664083127659,0.03136144997252471,4.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,Impurity,Wealth,0.18357900852051046,0.038243979325250366,3.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,Permutation,Demographics,0.03718066436840398,0.006822278757121588,2.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,Permutation,Education,0.010011933827879353,0.004822814362566372,4.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,Permutation,Family / employment,-0.0008125249153555036,0.002953250440194225,7.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,Permutation,Geography,-0.00021481634591529074,0.001335289003973351,6.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,Permutation,Income,0.046791588062248195,0.011994308985503674,1.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,Permutation,Industry,-0.0023279976348364127,0.009240301353183305,8.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,Permutation,Occupation,0.0026960438991458593,0.006240861659463269,5.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,Permutation,Wealth,0.018772988764052,0.00641642377845707,3.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,SHAP,Demographics,0.24490547021490555,0.022107412201428298,1.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,SHAP,Education,0.11522267035938367,0.02239529819820401,5.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,SHAP,Family / employment,0.02695116805176147,0.009477319941999442,7.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,SHAP,Geography,0.02676737711016581,0.009086894127475055,8.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,SHAP,Income,0.21535526880468794,0.022237238252869367,2.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,SHAP,Industry,0.06881506168684806,0.02407508522437813,6.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,SHAP,Occupation,0.13195316745795432,0.03790767730659655,4.0
+Benchmark,A7,Down $15k,Down,15000,Gradient Boosting,SHAP,Wealth,0.1700298163142932,0.01847488283596666,3.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,Impurity,Demographics,0.2461226687321027,0.010070222432515949,2.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,Impurity,Education,0.09692523732498727,0.013516475988722696,4.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,Impurity,Family / employment,0.028470817783026563,0.0029219351161820957,8.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,Impurity,Geography,0.04271154133966361,0.008401045214333748,7.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,Impurity,Income,0.2476918350900934,0.014034431420758347,1.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,Impurity,Industry,0.05784595958367559,0.008674137604031996,6.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,Impurity,Occupation,0.09106486549718693,0.006134944168245939,5.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,Impurity,Wealth,0.18916707464926383,0.016208595117243558,3.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,Permutation,Demographics,0.036108701230049056,0.006892644302626595,2.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,Permutation,Education,0.008078904911594905,0.0035231348852114964,4.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,Permutation,Family / employment,-0.0007730388947940991,0.0008652839894481516,7.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,Permutation,Geography,0.0014828709137824447,0.002833800520215421,6.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,Permutation,Income,0.041498415706691286,0.010048475602136248,1.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,Permutation,Industry,-0.0010274789685051466,0.004474877398544405,8.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,Permutation,Occupation,0.0032883496694809484,0.003190148642577918,5.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,Permutation,Wealth,0.0164353105277289,0.009830292218830111,3.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,SHAP,Demographics,0.2511093357057231,0.019216154665924176,1.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,SHAP,Education,0.12870361627594834,0.014574773939378782,4.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,SHAP,Family / employment,0.028607251489223072,0.0069833799372127185,8.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,SHAP,Geography,0.035639055184904275,0.0021264966850895886,7.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,SHAP,Income,0.21496375848135818,0.011689286203836023,2.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,SHAP,Industry,0.04960910261268351,0.014181105612769366,6.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,SHAP,Occupation,0.11200573748434428,0.00981673441789783,5.0
+Benchmark,A7,Down $15k,Down,15000,Random Forest,SHAP,Wealth,0.17936214276581525,0.019000667537814625,3.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,Impurity,Demographics,0.2821837279261769,0.025815116190685574,1.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,Impurity,Education,0.10204837964140559,0.02253349183921184,4.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,Impurity,Family / employment,0.019006254534241103,0.0064120750859253065,8.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,Impurity,Geography,0.031237261371420688,0.014480063889858218,7.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,Impurity,Income,0.2651683627190786,0.04020670623998833,2.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,Impurity,Industry,0.05814082097786406,0.022423295454951506,6.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,Impurity,Occupation,0.08299166862615356,0.03701130959938777,5.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,Impurity,Wealth,0.15922352420365948,0.021181781087189364,3.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,Permutation,Demographics,0.027418031469010118,0.007418119241102641,2.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,Permutation,Education,0.01258187360772926,0.006433660475527517,3.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,Permutation,Family / employment,0.0007940857420694749,0.0028190207966672575,7.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,Permutation,Geography,0.0002599920840396463,0.006174389218399658,8.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,Permutation,Income,0.04188125791639054,0.01509102998998793,1.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,Permutation,Industry,0.0028110645343275777,0.003020837571123675,6.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,Permutation,Occupation,0.007053858752755185,0.00517824645124142,5.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,Permutation,Wealth,0.00890006164337193,0.0070416496899123404,4.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,SHAP,Demographics,0.21652023449436086,0.03218736776856079,1.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,SHAP,Education,0.13329668170761907,0.03000334935489362,4.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,SHAP,Family / employment,0.02953113606962001,0.0065991481182046405,8.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,SHAP,Geography,0.05705252085372531,0.022686307959829913,7.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,SHAP,Income,0.20567769421134702,0.03100812632785099,2.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,SHAP,Industry,0.09673261847330739,0.028249062626745845,6.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,SHAP,Occupation,0.11773344085811613,0.045002807881278695,5.0
+Benchmark,A8,Down $20k,Down,20000,Gradient Boosting,SHAP,Wealth,0.14345567333190418,0.03291066382513757,3.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,Impurity,Demographics,0.24693907446864555,0.029046559969963557,1.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,Impurity,Education,0.09609389966485081,0.010805001793269273,5.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,Impurity,Family / employment,0.029661173538887847,0.0021733530210928985,8.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,Impurity,Geography,0.06006797815135608,0.011790913669096422,7.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,Impurity,Income,0.22623657047989934,0.014879510056997532,2.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,Impurity,Industry,0.06989917538359104,0.014419773504595198,6.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,Impurity,Occupation,0.10054304585080447,0.012850141217685972,4.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,Impurity,Wealth,0.17055908246196494,0.007576274499115609,3.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,Permutation,Demographics,0.032921088920996606,0.008821602634843896,2.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,Permutation,Education,0.01374739924404535,0.006932187914774393,3.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,Permutation,Family / employment,-0.0011792436205791356,0.0017909079422508492,8.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,Permutation,Geography,0.002944214536277947,0.004752759676997678,6.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,Permutation,Income,0.0385855021786686,0.014533132237530024,1.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,Permutation,Industry,0.0018288073445053242,0.0011958924292424962,7.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,Permutation,Occupation,0.00719110854602666,0.006252694593238469,5.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,Permutation,Wealth,0.010072805562160028,0.008449912555480898,4.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,SHAP,Demographics,0.24287976002570488,0.021790672429330436,1.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,SHAP,Education,0.13136819066343514,0.018526169552982523,4.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,SHAP,Family / employment,0.032697924885251604,0.007157760347276684,8.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,SHAP,Geography,0.05773263865075849,0.010528771748455196,7.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,SHAP,Income,0.20316287618422008,0.009707487027689862,2.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,SHAP,Industry,0.06263779213442154,0.01315663760491467,6.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,SHAP,Occupation,0.12157121740147403,0.02135145095146185,5.0
+Benchmark,A8,Down $20k,Down,20000,Random Forest,SHAP,Wealth,0.14794960005473423,0.00786209463296671,3.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,Impurity,Demographics,0.1420676722659424,0.033796793952360946,2.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,Impurity,Education,0.02958707240279889,0.010107554321198415,8.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,Impurity,Family / employment,0.04933204808127009,0.048323760051006366,5.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,Impurity,Geography,0.030890771384141792,0.010659382643539026,7.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,Impurity,Income,0.5544933934292098,0.01150901757882341,1.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,Impurity,Industry,0.06555051412285835,0.020943352037747574,4.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,Impurity,Occupation,0.034272226162234985,0.005102749497440373,6.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,Impurity,Wealth,0.09380630215154373,0.034072706636119304,3.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,Permutation,Demographics,0.020314965418541726,0.00677388181748677,2.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,Permutation,Education,0.0010403122914095665,0.002303502364204331,7.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,Permutation,Family / employment,0.002009517876470338,0.0019081969867992966,5.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,Permutation,Geography,0.0019515138876661578,0.004502459972098872,6.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,Permutation,Income,0.20207465018593726,0.03423453727041913,1.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,Permutation,Industry,0.005260593293644124,0.0037164032618340103,3.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,Permutation,Occupation,-0.0034668965249238146,0.0034841890844129436,8.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,Permutation,Wealth,0.0029649280824127267,0.007700086785957673,4.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,SHAP,Demographics,0.1511006482002652,0.007766543707146119,2.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,SHAP,Education,0.0514362789259175,0.019355183228687716,7.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,SHAP,Family / employment,0.06953424756506081,0.06477841985417877,4.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,SHAP,Geography,0.06699237288437696,0.023161280233830402,5.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,SHAP,Income,0.43673639674095616,0.07338001598447108,1.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,SHAP,Industry,0.11765016126194872,0.04167900106827591,3.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,SHAP,Occupation,0.04473818270250612,0.015338574780178298,8.0
+Parent-child absolute,I1,Up $5k,Up,5000,Gradient Boosting,SHAP,Wealth,0.061811711718968564,0.022728096852805513,6.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,Impurity,Demographics,0.16458322803816133,0.012962573761275024,2.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,Impurity,Education,0.06004988133319664,0.004133398271578298,7.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,Impurity,Family / employment,0.05409934093265267,0.013033137306091439,8.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,Impurity,Geography,0.061439524189738845,0.009256244138307638,6.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,Impurity,Income,0.36427744687845154,0.04314368590290087,1.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,Impurity,Industry,0.08793867174968015,0.01931617940732221,4.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,Impurity,Occupation,0.07246563547318284,0.015524869120856863,5.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,Impurity,Wealth,0.13514627140493585,0.007135085638273444,3.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,Permutation,Demographics,0.017654858449610678,0.007210389408699479,2.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,Permutation,Education,0.0017881732844617672,0.003728496204423135,5.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,Permutation,Family / employment,0.0029206658147163736,0.006698016174186379,3.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,Permutation,Geography,0.0017725100509930047,0.00387886456682467,6.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,Permutation,Income,0.18052138063148343,0.013212224018052481,1.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,Permutation,Industry,0.002407965607195032,0.0033382857963991856,4.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,Permutation,Occupation,0.0002878107531557039,0.003838652716759067,8.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,Permutation,Wealth,0.0006278942852154654,0.003305766827507764,7.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,SHAP,Demographics,0.14303132603959295,0.02457102039380327,2.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,SHAP,Education,0.05450103181297452,0.006261334986012453,7.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,SHAP,Family / employment,0.10961645222149081,0.029932397101443183,4.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,SHAP,Geography,0.0610961356986206,0.018293765344278505,6.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,SHAP,Income,0.3928158395353573,0.04396380912929784,1.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,SHAP,Industry,0.1277690664714566,0.02814133529285476,3.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,SHAP,Occupation,0.061946248909953774,0.014435653563547281,5.0
+Parent-child absolute,I1,Up $5k,Up,5000,Random Forest,SHAP,Wealth,0.04922389931055356,0.010585899193728762,8.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,Impurity,Demographics,0.18259874205488943,0.012880963389784535,2.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,Impurity,Education,0.03726878633417693,0.011427978873303194,7.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,Impurity,Family / employment,0.0547038263747032,0.03974883284008649,5.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,Impurity,Geography,0.033865795889957154,0.007085114066168831,8.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,Impurity,Income,0.49794807571689204,0.012481487808479531,1.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,Impurity,Industry,0.05531192992505766,0.021887450669943295,4.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,Impurity,Occupation,0.040602327773751536,0.006358129715804114,6.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,Impurity,Wealth,0.0977005159305721,0.03967539375167315,3.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,Permutation,Demographics,0.03090361672048352,0.009748734631579735,2.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,Permutation,Education,0.005681019571882046,0.006833075303622023,3.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,Permutation,Family / employment,0.00244444121458111,0.0055080777405563585,4.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,Permutation,Geography,0.0007650966259831426,0.0014510691298538336,6.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,Permutation,Income,0.18444622764324795,0.030843507981844404,1.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,Permutation,Industry,0.0013018701619488438,0.001454517611376111,5.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,Permutation,Occupation,-0.00014059030737247684,0.002181608605810648,7.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,Permutation,Wealth,-0.0011678387801636913,0.007616443150786197,8.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,SHAP,Demographics,0.2174279264087847,0.02709703030253301,2.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,SHAP,Education,0.054926323660055044,0.017112528898271806,7.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,SHAP,Family / employment,0.06830936868316091,0.04694460441536159,5.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,SHAP,Geography,0.057438867979894406,0.01413833811943978,6.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,SHAP,Income,0.3943156200315431,0.0712635236228923,1.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,SHAP,Industry,0.0903232705485462,0.03129685095290384,3.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,SHAP,Occupation,0.041306260971078326,0.006556446842619366,8.0
+Parent-child absolute,I2,Up $10k,Up,10000,Gradient Boosting,SHAP,Wealth,0.07595236171693737,0.038713277974019265,4.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,Impurity,Demographics,0.18247981156058996,0.007735456398836575,2.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,Impurity,Education,0.05977594135426717,0.011291859640660758,7.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,Impurity,Family / employment,0.04984754693364827,0.012571923052604784,8.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,Impurity,Geography,0.06338736650343826,0.007334207726613189,6.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,Impurity,Income,0.35330902736651215,0.05396438249617816,1.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,Impurity,Industry,0.07282611605610816,0.024513742146332923,5.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,Impurity,Occupation,0.07342728508539328,0.019649555066874245,4.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,Impurity,Wealth,0.14494690514004277,0.020816820422305357,3.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,Permutation,Demographics,0.02101528488911501,0.00994664993542405,2.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,Permutation,Education,0.001996579043546478,0.004090923016778648,3.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,Permutation,Family / employment,-0.0001723333890428446,0.004667903408188078,7.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,Permutation,Geography,0.00013240334628706224,0.003033374793140889,6.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,Permutation,Income,0.16579780285868845,0.02684490455801013,1.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,Permutation,Industry,0.0008755617310376972,0.00223313964918186,4.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,Permutation,Occupation,0.0004962040360418885,0.002942771229761885,5.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,Permutation,Wealth,-0.0010380095152405793,0.012726400230439834,8.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,SHAP,Demographics,0.18663605900495442,0.015352454171899302,2.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,SHAP,Education,0.050919282909140426,0.010151804879771159,8.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,SHAP,Family / employment,0.10342520653700871,0.02227073840100448,3.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,SHAP,Geography,0.05786694893552272,0.00865697546007139,7.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,SHAP,Income,0.3725576041910704,0.05887894407926741,1.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,SHAP,Industry,0.09542471724735521,0.03133728892313399,4.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,SHAP,Occupation,0.059651028211313475,0.018871693785799882,6.0
+Parent-child absolute,I2,Up $10k,Up,10000,Random Forest,SHAP,Wealth,0.07351915296363462,0.03808774091102185,5.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,Impurity,Demographics,0.1978169750740965,0.017049963099998965,2.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,Impurity,Education,0.04801859650398003,0.008186087066574059,7.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,Impurity,Family / employment,0.07575747371208268,0.02754105288316106,4.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,Impurity,Geography,0.04260336093542637,0.019006711873983586,8.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,Impurity,Income,0.3974709427046532,0.06780097410290266,1.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,Impurity,Industry,0.07235112416339798,0.01078444086580675,5.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,Impurity,Occupation,0.06284137162975022,0.024702469998126815,6.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,Impurity,Wealth,0.103140155276613,0.02953721771742933,3.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,Permutation,Demographics,0.03280740973804437,0.01467737787397518,2.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,Permutation,Education,0.0022822115830747553,0.005047573134423261,5.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,Permutation,Family / employment,0.005205639093508282,0.008085320362772435,3.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,Permutation,Geography,0.00011404322494801607,0.004456141539861973,7.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,Permutation,Income,0.15384683781246475,0.04132376388523329,1.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,Permutation,Industry,-0.002382193447526072,0.008137521867722607,8.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,Permutation,Occupation,0.001505053505071988,0.007721677169968662,6.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,Permutation,Wealth,0.0035760506765668302,0.003547900121382622,4.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,SHAP,Demographics,0.22165037938232093,0.018708557187121614,2.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,SHAP,Education,0.07137715419651802,0.016851698047472434,5.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,SHAP,Family / employment,0.09834868319870677,0.027366550891541823,4.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,SHAP,Geography,0.06817729877044741,0.011660340481550497,6.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,SHAP,Income,0.29790572328437465,0.03741014504563835,1.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,SHAP,Industry,0.11968505781674103,0.006792598383095041,3.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,SHAP,Occupation,0.06150820758902983,0.030646791842569656,7.0
+Parent-child absolute,I3,Up $15k,Up,15000,Gradient Boosting,SHAP,Wealth,0.061347495761861326,0.011226787216563472,8.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,Impurity,Demographics,0.204674125511663,0.01809319070850184,2.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,Impurity,Education,0.059852750741290886,0.006844112158388828,6.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,Impurity,Family / employment,0.05816406232856188,0.030850078010168827,8.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,Impurity,Geography,0.05894101564390669,0.0071658381278211945,7.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,Impurity,Income,0.34079175291017655,0.03701731131809189,1.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,Impurity,Industry,0.0650631061670418,0.020158130848676053,5.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,Impurity,Occupation,0.06546857917904236,0.021733547171192476,4.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,Impurity,Wealth,0.1470446075183168,0.028597822787941644,3.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,Permutation,Demographics,0.026497893344878582,0.010017206133736101,2.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,Permutation,Education,-0.0005047113669445069,0.005553689385854156,6.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,Permutation,Family / employment,0.0007548411117042697,0.003056192777257251,4.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,Permutation,Geography,-0.0037903998506756374,0.00264428036271666,8.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,Permutation,Income,0.150048526514185,0.03905841716588653,1.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,Permutation,Industry,-0.002211373244228797,0.00846809266976507,7.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,Permutation,Occupation,0.003261035856534701,0.0027599573447696776,3.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,Permutation,Wealth,0.00047865204197111466,0.008544496263284226,5.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,SHAP,Demographics,0.22935786068813865,0.02020297500604593,2.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,SHAP,Education,0.059523896434790835,0.0163546902719115,6.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,SHAP,Family / employment,0.1138709993179547,0.04321577368474555,3.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,SHAP,Geography,0.05367115612041501,0.007366179881237202,7.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,SHAP,Income,0.33604797034571215,0.04446120793410873,1.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,SHAP,Industry,0.08396147163584997,0.023314263136804163,4.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,SHAP,Occupation,0.04938277643699205,0.015706790146594082,8.0
+Parent-child absolute,I3,Up $15k,Up,15000,Random Forest,SHAP,Wealth,0.07418386902014676,0.019291270915380233,5.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,Impurity,Demographics,0.216983399381454,0.0339216868431183,2.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,Impurity,Education,0.05189173773680855,0.009595147136108123,5.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,Impurity,Family / employment,0.04303276522292596,0.04034288310819212,7.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,Impurity,Geography,0.05888400688273485,0.00900496278913686,4.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,Impurity,Income,0.42096126894742436,0.03776649209964258,1.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,Impurity,Industry,0.05168706061290411,0.014708216954559407,6.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,Impurity,Occupation,0.04271288348596334,0.006103627279539424,8.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,Impurity,Wealth,0.11384687772978479,0.050277141986728786,3.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,Permutation,Demographics,0.048492467382268756,0.01059791452233338,2.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,Permutation,Education,0.013903631889784288,0.0029207346322159163,3.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,Permutation,Family / employment,0.0015847888091978836,0.0010688208538333485,7.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,Permutation,Geography,0.007329177030972243,0.00480575992680545,4.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,Permutation,Income,0.13997678329709323,0.04318648407241384,1.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,Permutation,Industry,0.0027536485208034477,0.00458328318146802,6.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,Permutation,Occupation,0.0010486131515932663,0.003210596156949502,8.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,Permutation,Wealth,0.004420396826125718,0.008854662713782059,5.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,SHAP,Demographics,0.23519754105423893,0.021155725646031437,2.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,SHAP,Education,0.09176053460886333,0.01419781836171605,5.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,SHAP,Family / employment,0.05528101044444472,0.05158221781263479,7.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,SHAP,Geography,0.09555771110006124,0.025052189703552656,3.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,SHAP,Income,0.3181833881118402,0.035808015837473915,1.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,SHAP,Industry,0.09438740411769223,0.01704710717291808,4.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,SHAP,Occupation,0.04807608016535249,0.009140637209388423,8.0
+Parent-child absolute,I4,Up $20k,Up,20000,Gradient Boosting,SHAP,Wealth,0.061556330397506895,0.03142253635037809,6.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,Impurity,Demographics,0.2159118552272866,0.011950362671036172,2.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,Impurity,Education,0.06082019886339326,0.004433864986287623,5.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,Impurity,Family / employment,0.037104485173401966,0.01208583682809177,8.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,Impurity,Geography,0.07265576710181942,0.004465142836189265,4.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,Impurity,Income,0.33786641524402466,0.023091022487990647,1.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,Impurity,Industry,0.056746647758653276,0.018416322921702664,6.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,Impurity,Occupation,0.05660824178238333,0.017228460406666816,7.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,Impurity,Wealth,0.16228638884903743,0.02329752727488434,3.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,Permutation,Demographics,0.04135965120614955,0.027728850476725336,2.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,Permutation,Education,0.008437344741347396,0.007836796649184857,3.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,Permutation,Family / employment,0.0003694401826383676,0.0031018158299170183,8.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,Permutation,Geography,0.0063563511045412035,0.004492919553495562,4.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,Permutation,Income,0.1363897989307697,0.02367798257045261,1.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,Permutation,Industry,0.0018226790727224722,0.005262030392670333,7.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,Permutation,Occupation,0.003999596682514391,0.005923702991675029,5.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,Permutation,Wealth,0.003942729908221911,0.011728058836599714,6.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,SHAP,Demographics,0.21731472666390572,0.028719505923285822,2.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,SHAP,Education,0.07468323785467204,0.013783799760401496,6.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,SHAP,Family / employment,0.06987035810273685,0.024730236071806123,7.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,SHAP,Geography,0.08840912519281544,0.008286390159606633,4.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,SHAP,Income,0.3338418240058109,0.035448049264729206,1.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,SHAP,Industry,0.07832111312194268,0.02865029233584009,5.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,SHAP,Occupation,0.04914133881258629,0.021129532784465128,8.0
+Parent-child absolute,I4,Up $20k,Up,20000,Random Forest,SHAP,Wealth,0.08841827624553014,0.024911056090938404,3.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,Impurity,Demographics,0.1233031622893471,0.010744565303576849,2.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,Impurity,Education,0.02632487228864371,0.00790665557432007,6.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,Impurity,Family / employment,0.014662586977187059,0.015678176289179273,7.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,Impurity,Geography,0.013573313608934065,0.00825128718465377,8.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,Impurity,Income,0.6595629376369186,0.022296960079295818,1.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,Impurity,Industry,0.0385761830167045,0.010386207892176121,4.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,Impurity,Occupation,0.03264759476968226,0.006768281045697687,5.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,Impurity,Wealth,0.09134934941258263,0.013713376123019167,3.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,Permutation,Demographics,0.018960383701205973,0.012603463357591457,2.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,Permutation,Education,0.0009672786428453362,0.0021628309178767717,4.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,Permutation,Family / employment,0.0020352355892529583,0.004171085901270854,3.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,Permutation,Geography,-0.000902877132093125,0.003121465000360951,7.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,Permutation,Income,0.2895388440106993,0.058214305010453715,1.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,Permutation,Industry,0.00032534843419445707,0.006459794054167173,5.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,Permutation,Occupation,-0.000246451847685174,0.0027209431274351995,6.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,Permutation,Wealth,-0.0035958881925623174,0.005269163871000201,8.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,SHAP,Demographics,0.13220352174434666,0.014072546314739547,2.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,SHAP,Education,0.058441113653760944,0.016716742746326053,5.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,SHAP,Family / employment,0.030778003548618028,0.029394372377625638,7.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,SHAP,Geography,0.02940712547338319,0.015569344717564729,8.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,SHAP,Income,0.5687447983731733,0.07869436193074603,1.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,SHAP,Industry,0.07359169120928037,0.0362171635344589,3.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,SHAP,Occupation,0.04170001484516611,0.015452500804922378,6.0
+Parent-child absolute,I5,Down $5k,Down,5000,Gradient Boosting,SHAP,Wealth,0.06513373115227145,0.02446705157642694,4.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,Impurity,Demographics,0.15408895733854955,0.007515886981516586,2.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,Impurity,Education,0.03699574509392404,0.0024842946234612247,6.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,Impurity,Family / employment,0.025222371820907825,0.0008990414716422627,8.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,Impurity,Geography,0.035759535627287224,0.0031954147442961713,7.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,Impurity,Income,0.5418415132752762,0.010532053646778382,1.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,Impurity,Industry,0.03704143768046281,0.003857568068364302,5.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,Impurity,Occupation,0.03718335773813987,0.0020799817760878666,4.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,Impurity,Wealth,0.13186708142545256,0.0028951894661988836,3.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,Permutation,Demographics,0.018884589167887444,0.008812422483554955,2.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,Permutation,Education,-0.0008569262193766916,0.006421726566281317,3.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,Permutation,Family / employment,-0.0014060347425072473,0.002370933198288852,4.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,Permutation,Geography,-0.0036857706245803533,0.00385738465319741,8.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,Permutation,Income,0.28931074505650106,0.04002013130752271,1.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,Permutation,Industry,-0.001703184046032481,0.00241046730823068,5.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,Permutation,Occupation,-0.0018186435980065696,0.001956088566549456,6.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,Permutation,Wealth,-0.002032636276773604,0.004917437900991978,7.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,SHAP,Demographics,0.179463074383785,0.010181340797655708,2.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,SHAP,Education,0.043864322779592166,0.011772028959402983,5.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,SHAP,Family / employment,0.03731804321942248,0.0024431718738244916,6.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,SHAP,Geography,0.03465846560638704,0.012412068824225063,8.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,SHAP,Income,0.5548431943378427,0.017420542225598978,1.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,SHAP,Industry,0.049001118210242875,0.011655463171739754,4.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,SHAP,Occupation,0.036636864253985865,0.005280342420138737,7.0
+Parent-child absolute,I5,Down $5k,Down,5000,Random Forest,SHAP,Wealth,0.06421491720874192,0.007500988248191285,3.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,Impurity,Demographics,0.1107303347395836,0.0057673777591593,2.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,Impurity,Education,0.024538423149108243,0.002758123136339886,6.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,Impurity,Family / employment,0.005071436981835382,0.0021553965499733676,8.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,Impurity,Geography,0.019942790928484333,0.010241361159108201,7.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,Impurity,Income,0.6963192289694653,0.01524593693000934,1.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,Impurity,Industry,0.026566446178577962,0.00546935394078523,5.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,Impurity,Occupation,0.027585935202714917,0.0043003314773616035,4.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,Impurity,Wealth,0.08924540385023019,0.01433083334694652,3.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,Permutation,Demographics,0.012950294192677611,0.009121277371987785,2.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,Permutation,Education,0.0026967577997541806,0.004077293518697855,3.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,Permutation,Family / employment,-0.0008730068804758384,0.001542564259377857,7.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,Permutation,Geography,-0.002313649765393528,0.005258745904514143,8.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,Permutation,Income,0.34300501682236745,0.03212186335050786,1.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,Permutation,Industry,0.001019873435771409,0.003876521826067004,5.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,Permutation,Occupation,0.00031657255677199563,0.0019211007863777544,6.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,Permutation,Wealth,0.0010788453270918273,0.01156152753561578,4.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,SHAP,Demographics,0.10969354465335732,0.017453889932099974,2.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,SHAP,Education,0.04820071167622262,0.0012083929944434575,5.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,SHAP,Family / employment,0.010000636402135459,0.0034074976966449,8.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,SHAP,Geography,0.04429956524276905,0.01798111707330373,6.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,SHAP,Income,0.6232630400936034,0.02228986734538379,1.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,SHAP,Industry,0.0546407052424281,0.011845208216126833,4.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,SHAP,Occupation,0.04002181179473976,0.006688207514298788,7.0
+Parent-child absolute,I6,Down $10k,Down,10000,Gradient Boosting,SHAP,Wealth,0.06987998489474416,0.012957903822308324,3.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,Impurity,Demographics,0.13889975196808318,0.005678741442391443,2.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,Impurity,Education,0.03324829263606764,0.0025650575244641587,6.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,Impurity,Family / employment,0.02680511507470022,0.0019125719378714683,8.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,Impurity,Geography,0.0370283346103641,0.00557115964163921,4.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,Impurity,Income,0.5685357597899688,0.011660620561617324,1.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,Impurity,Industry,0.03256984894697218,0.00314706082011774,7.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,Impurity,Occupation,0.03434714507027779,0.0016867435145902663,5.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,Impurity,Wealth,0.12856575190356598,0.009003870487003289,3.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,Permutation,Demographics,0.007538891943001225,0.004724077796267608,2.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,Permutation,Education,3.844135009574163e-05,0.0041326427632046425,4.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,Permutation,Family / employment,-0.0009073690760437325,0.0027743202027206604,5.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,Permutation,Geography,-0.0016096698658302755,0.006560017599771902,6.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,Permutation,Income,0.31920732813848396,0.024562403320793354,1.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,Permutation,Industry,-0.0017290629300260696,0.0016618363850533747,7.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,Permutation,Occupation,-0.001994321124461591,0.002108164294304806,8.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,Permutation,Wealth,0.0014087946968087948,0.009618740778746358,3.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,SHAP,Demographics,0.15704371646337453,0.016775394926451206,2.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,SHAP,Education,0.03974989624384365,0.006168165249818363,7.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,SHAP,Family / employment,0.04248439964502922,0.0039213346474162095,5.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,SHAP,Geography,0.04636139232833121,0.01650993502896317,4.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,SHAP,Income,0.5761119238088677,0.02544233502324093,1.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,SHAP,Industry,0.04049418759815065,0.0071505440508777785,6.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,SHAP,Occupation,0.03322815475784915,0.006229453145351057,8.0
+Parent-child absolute,I6,Down $10k,Down,10000,Random Forest,SHAP,Wealth,0.06452632915455385,0.010739732039321053,3.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,Impurity,Demographics,0.09523744669478432,0.011104776296546184,2.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,Impurity,Education,0.022295250233013757,0.006787673047856676,6.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,Impurity,Family / employment,0.0068533338979368304,0.010114185232806277,8.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,Impurity,Geography,0.01642448610592917,0.004747550478056235,7.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,Impurity,Income,0.7030600920574943,0.02228553354357037,1.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,Impurity,Industry,0.031332184579156,0.009414467839221357,5.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,Impurity,Occupation,0.03275555906720397,0.009293230105379677,4.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,Impurity,Wealth,0.09204164736448174,0.021520946896255926,3.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,Permutation,Demographics,0.005988681262664908,0.0038547029340907663,2.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,Permutation,Education,-0.0004748345761576032,0.003332590805006844,5.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,Permutation,Family / employment,-0.00037879611907570387,0.00104493338110365,4.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,Permutation,Geography,-0.0014808937261605337,0.0024354807303642364,7.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,Permutation,Income,0.3359361868988177,0.04349602523061481,1.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,Permutation,Industry,-0.0014860088412691995,0.0032186195857184137,8.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,Permutation,Occupation,-0.0009943180013446463,0.002633405049088868,6.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,Permutation,Wealth,0.004139523439251143,0.005098117309070525,3.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,SHAP,Demographics,0.09301748441542508,0.03906871753457918,2.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,SHAP,Education,0.043253236927063364,0.013732335769689574,6.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,SHAP,Family / employment,0.014443730412996833,0.023267178323828325,8.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,SHAP,Geography,0.048782453930859684,0.01672638298512435,5.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,SHAP,Income,0.6239902605915344,0.08292285034337239,1.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,SHAP,Industry,0.06706800557942641,0.024856417603338322,4.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,SHAP,Occupation,0.04095357520618773,0.017985884157012466,7.0
+Parent-child absolute,I7,Down $15k,Down,15000,Gradient Boosting,SHAP,Wealth,0.06849125293650657,0.019125874260943452,3.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,Impurity,Demographics,0.12430272067716408,0.008957165926073533,3.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,Impurity,Education,0.030186679261369264,0.002900073102267504,7.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,Impurity,Family / employment,0.0241762814397739,0.004655786559437861,8.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,Impurity,Geography,0.03379541981606127,0.004035230775343133,5.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,Impurity,Income,0.5907774224956525,0.008785224112580483,1.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,Impurity,Industry,0.03269374241657659,0.0014299005732439885,6.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,Impurity,Occupation,0.034486370672970376,0.002161407537802953,4.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,Impurity,Wealth,0.12958136322043212,0.008280474091780971,2.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,Permutation,Demographics,0.006766006735842411,0.00520495131505207,2.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,Permutation,Education,-0.0009753297224273406,0.0026307222820492315,4.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,Permutation,Family / employment,-0.0010195905594931076,0.002013778396362312,5.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,Permutation,Geography,-0.0012827718954405531,0.0037087132067641186,7.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,Permutation,Income,0.336005306821648,0.014970699190359893,1.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,Permutation,Industry,-0.002161216883578304,0.0015849220850171664,8.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,Permutation,Occupation,-0.00119833855195584,0.0011546076369830073,6.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,Permutation,Wealth,0.0042362507862399035,0.006129297356406987,3.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,SHAP,Demographics,0.12982007337213863,0.024008842878521154,2.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,SHAP,Education,0.03575242057182373,0.011362321762899696,6.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,SHAP,Family / employment,0.03002907877899299,0.0064764581150964255,8.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,SHAP,Geography,0.04647542958396191,0.014799588555212764,4.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,SHAP,Income,0.6101107012813838,0.019448712163954912,1.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,SHAP,Industry,0.04276846990260562,0.005636549741014871,5.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,SHAP,Occupation,0.033489096019354625,0.007791643569457918,7.0
+Parent-child absolute,I7,Down $15k,Down,15000,Random Forest,SHAP,Wealth,0.07155473048973866,0.012276191291523407,3.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,Impurity,Demographics,0.09825114069545163,0.00971142753571268,3.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,Impurity,Education,0.017224121792901635,0.0032045492727651287,6.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,Impurity,Family / employment,0.003987930159579938,0.001984236415319865,8.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,Impurity,Geography,0.016052369168196266,0.0016588426184387184,7.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,Impurity,Income,0.7114829931365915,0.012566828993572846,1.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,Impurity,Industry,0.027587733488688905,0.005909257773939666,4.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,Impurity,Occupation,0.024345201365360537,0.002069497695551544,5.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,Impurity,Wealth,0.10106851019322956,0.005420365040037304,2.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,Permutation,Demographics,0.009056704631761402,0.00493546664032414,2.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,Permutation,Education,-0.0013411492473650078,0.002242002808821085,7.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,Permutation,Family / employment,-0.00020322347039969155,0.0005728493973791953,5.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,Permutation,Geography,-0.0009557798749394964,0.0021410337328429617,6.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,Permutation,Income,0.36447357565764127,0.03165439729659186,1.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,Permutation,Industry,-0.00014833416210026655,0.0029460143534521823,4.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,Permutation,Occupation,-0.001429718939403176,0.0026902135931855128,8.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,Permutation,Wealth,0.0025870178602814264,0.0045156691849858165,3.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,SHAP,Demographics,0.06636213846535091,0.0073721196750333555,2.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,SHAP,Education,0.032311622985220785,0.005689115182294845,7.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,SHAP,Family / employment,0.018697247161315166,0.013592286375927852,8.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,SHAP,Geography,0.043478492538518265,0.008803159121679886,5.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,SHAP,Income,0.6728421547794986,0.035082857936144976,1.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,SHAP,Industry,0.062004187035839806,0.02166479358498381,4.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,SHAP,Occupation,0.04102064443154387,0.004724333975919615,6.0
+Parent-child absolute,I8,Down $20k,Down,20000,Gradient Boosting,SHAP,Wealth,0.06328351260271245,0.006464192015406266,3.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,Impurity,Demographics,0.11364706938290325,0.009840420158032567,3.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,Impurity,Education,0.02615704483586446,0.0013274258822311223,8.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,Impurity,Family / employment,0.03456694921432148,0.0049607412978277905,4.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,Impurity,Geography,0.03280136056186642,0.0027465024935964194,6.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,Impurity,Income,0.6018756907170987,0.012849252451644469,1.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,Impurity,Industry,0.03108228482562695,0.002688193223680505,7.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,Impurity,Occupation,0.0344069279680585,0.002761148505193512,5.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,Impurity,Wealth,0.1254626724942601,0.005048002702741316,2.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,Permutation,Demographics,0.008205052830258356,0.006281823606179518,2.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,Permutation,Education,-0.0015275175360063762,0.0027644428267765905,8.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,Permutation,Family / employment,-0.0005920212909309908,0.0029369447254740636,4.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,Permutation,Geography,-0.0006080018457834402,0.001791759648049091,5.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,Permutation,Income,0.34140867609612363,0.024757600693906298,1.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,Permutation,Industry,-0.0011363103625876914,0.0029393972598458717,7.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,Permutation,Occupation,-0.0006133075422416468,0.0019241540360897176,6.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,Permutation,Wealth,0.0039590995371862215,0.003116662027342235,3.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,SHAP,Demographics,0.10493641569896853,0.01344149391894457,2.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,SHAP,Education,0.026561138651839993,0.0035259945156578274,8.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,SHAP,Family / employment,0.05512965029348214,0.011162687914995098,4.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,SHAP,Geography,0.04575270240988777,0.008213262780240704,5.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,SHAP,Income,0.6114985504468813,0.027853557289628662,1.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,SHAP,Industry,0.041315756237145985,0.010208323561162457,7.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,SHAP,Occupation,0.041613395975895404,0.008762006043605318,6.0
+Parent-child absolute,I8,Down $20k,Down,20000,Random Forest,SHAP,Wealth,0.07319239028589895,0.0063402413841990414,3.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,Impurity,Demographics,0.1562843730409867,0.014237131890957822,2.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,Impurity,Education,0.04075354280822886,0.008248922165069823,8.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,Impurity,Family / employment,0.08044973549234553,0.01578049951307024,4.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,Impurity,Geography,0.0441255509999257,0.013189971954129196,7.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,Impurity,Income,0.4456965939252848,0.07918848588105631,1.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,Impurity,Industry,0.07195840713182396,0.021107851356662228,5.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,Impurity,Occupation,0.05896412459723179,0.02065253093237972,6.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,Impurity,Wealth,0.1017676720041727,0.04656490786640793,3.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,Permutation,Demographics,0.019558361659802466,0.013635048459091725,2.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,Permutation,Education,0.0019634756912074703,0.0034799954861889867,5.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,Permutation,Family / employment,0.009135740281055514,0.005837102216714312,3.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,Permutation,Geography,0.0057349074193021165,0.010430902977085871,4.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,Permutation,Income,0.15701482074605608,0.03682694645089943,1.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,Permutation,Industry,-0.0005834616459339049,0.004435337522938129,7.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,Permutation,Occupation,-0.00031090847180978865,0.004193890704931551,6.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,Permutation,Wealth,-0.0015698630295087079,0.008472249500842499,8.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,SHAP,Demographics,0.16587452198228153,0.03267233951859505,2.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,SHAP,Education,0.05779028157168518,0.01299867780594999,8.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,SHAP,Family / employment,0.11364440964665959,0.02399853731514727,3.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,SHAP,Geography,0.07391529462989839,0.014086728628619503,6.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,SHAP,Income,0.3397610863470786,0.05438275604739296,1.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,SHAP,Industry,0.11129375780251297,0.02670427550878206,4.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,SHAP,Occupation,0.07475876247989428,0.028831385627290967,5.0
+Relative,DV1,Up 10 pp,Up,10,Gradient Boosting,SHAP,Wealth,0.06296188553998941,0.031363260283829394,7.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,Impurity,Demographics,0.16760555870648153,0.01693085195832867,2.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,Impurity,Education,0.05763477410109772,0.010943929397197646,8.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,Impurity,Family / employment,0.0917038318925719,0.04534804978915212,4.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,Impurity,Geography,0.06018180502726239,0.009461220975623715,7.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,Impurity,Income,0.34772795219329466,0.04043427159256266,1.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,Impurity,Industry,0.08436662420307539,0.020343373482985778,5.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,Impurity,Occupation,0.07371948265970374,0.016290981633945188,6.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,Impurity,Wealth,0.11705997121651275,0.02343507186005436,3.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,Permutation,Demographics,0.015060513238060185,0.009542758362557989,2.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,Permutation,Education,0.003052072065078387,0.005860714940558248,4.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,Permutation,Family / employment,0.008072365102296869,0.0024397588089674358,3.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,Permutation,Geography,0.0012195837671182598,0.005749243744375658,5.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,Permutation,Income,0.14041565362871045,0.016241038233566374,1.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,Permutation,Industry,-0.0008630274059727416,0.003352059930185877,7.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,Permutation,Occupation,0.0006564300315383742,0.0025846370908347823,6.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,Permutation,Wealth,-0.0029518140097916077,0.006093789897565476,8.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,SHAP,Demographics,0.16551000041950428,0.018150472455304607,2.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,SHAP,Education,0.04857612876688139,0.01675243165789874,8.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,SHAP,Family / employment,0.14935617308738872,0.05422066854139864,3.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,SHAP,Geography,0.06533369793987383,0.011847465498042362,6.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,SHAP,Income,0.3477018704032542,0.06470479859003901,1.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,SHAP,Industry,0.0967273734348999,0.025563054164005367,4.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,SHAP,Occupation,0.07061021763909489,0.021167666521275615,5.0
+Relative,DV1,Up 10 pp,Up,10,Random Forest,SHAP,Wealth,0.05618453830910277,0.019911523009306223,7.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,Impurity,Demographics,0.19453579241661445,0.05468389442957386,2.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,Impurity,Education,0.04982496858788436,0.010741256807600894,6.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,Impurity,Family / employment,0.07000897333092905,0.04906042946834498,4.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,Impurity,Geography,0.053428854066832364,0.017637967270345077,5.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,Impurity,Income,0.42981379495037786,0.05106929477051797,1.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,Impurity,Industry,0.045634296634617696,0.023912896738083604,8.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,Impurity,Occupation,0.045643524222685465,0.014106804779130165,7.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,Impurity,Wealth,0.1111097957900588,0.03832440219344089,3.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,Permutation,Demographics,0.029549887310592965,0.018315765316789592,2.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,Permutation,Education,0.0058722216614407585,0.00621726959927582,3.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,Permutation,Family / employment,0.004627659403521778,0.0056699286449102375,5.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,Permutation,Geography,0.0010355951819770767,0.008579073872932318,6.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,Permutation,Income,0.16638669160749112,0.02749684511292972,1.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,Permutation,Industry,-0.0026256952914653162,0.004358412887408807,8.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,Permutation,Occupation,0.00031002305261501487,0.005019402217024537,7.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,Permutation,Wealth,0.0048415793823779005,0.010180190905302143,4.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,SHAP,Demographics,0.1986663522524701,0.041049428012200795,2.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,SHAP,Education,0.0863803666780303,0.010353483547338052,4.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,SHAP,Family / employment,0.08345242394111212,0.05397895300770041,6.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,SHAP,Geography,0.09261691587421234,0.03318835038260603,3.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,SHAP,Income,0.34468776425969094,0.052808436708440425,1.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,SHAP,Industry,0.06634643209325254,0.025661945748607713,7.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,SHAP,Occupation,0.04388753944438516,0.008371470845276315,8.0
+Relative,DV2,Up 20 pp,Up,20,Gradient Boosting,SHAP,Wealth,0.08396220545684667,0.012109032639954833,5.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,Impurity,Demographics,0.2031174232628114,0.024971307452434734,2.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,Impurity,Education,0.060061971714979887,0.00864521913144766,6.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,Impurity,Family / employment,0.0601966079660729,0.041217652133308566,5.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,Impurity,Geography,0.06396594173047587,0.013067130646437114,4.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,Impurity,Income,0.3497846657487573,0.03872836910293502,1.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,Impurity,Industry,0.05455879034120703,0.024806585011817876,8.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,Impurity,Occupation,0.05979593930431295,0.023679717916354412,7.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,Impurity,Wealth,0.14851865993138277,0.027016313513872223,3.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,Permutation,Demographics,0.030917322409523395,0.02212647927375002,2.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,Permutation,Education,0.002663221387206093,0.007423341747470131,4.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,Permutation,Family / employment,-0.0001695222183591397,0.005140856659094652,7.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,Permutation,Geography,0.0004953411445954923,0.009945405489868962,6.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,Permutation,Income,0.16250654055760144,0.059970399483548924,1.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,Permutation,Industry,-0.002104370493634179,0.005081835490987045,8.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,Permutation,Occupation,0.001334210441249476,0.0030369238306019223,5.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,Permutation,Wealth,0.005526852898624409,0.013218398354942143,3.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,SHAP,Demographics,0.2089701413016,0.03424897627243594,2.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,SHAP,Education,0.07091468538310229,0.012384243351154284,6.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,SHAP,Family / employment,0.10446320255460514,0.05321248907439016,3.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,SHAP,Geography,0.07977017405000297,0.031141625363237356,5.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,SHAP,Income,0.33837331328934594,0.04149631105860697,1.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,SHAP,Industry,0.054680127544057336,0.027204395854111683,7.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,SHAP,Occupation,0.047772799929845254,0.015830907677173635,8.0
+Relative,DV2,Up 20 pp,Up,20,Random Forest,SHAP,Wealth,0.09505555594744111,0.02565164150383166,4.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,Impurity,Demographics,0.16355690886696855,0.022274088284297073,2.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,Impurity,Education,0.02397785244140229,0.014031540318548332,8.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,Impurity,Family / employment,0.06473351113079659,0.025919795925609675,4.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,Impurity,Geography,0.06377620743211765,0.017842728897510506,5.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,Impurity,Income,0.4277220280111439,0.055756688354586484,1.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,Impurity,Industry,0.042294241139000315,0.03220301853213808,7.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,Impurity,Occupation,0.06004962903533258,0.015122594555419124,6.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,Impurity,Wealth,0.15388962194323821,0.025542321553835866,3.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,Permutation,Demographics,0.014941325668209424,0.004643801501784908,3.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,Permutation,Education,-0.0019857922707487126,0.00479807588552637,7.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,Permutation,Family / employment,0.008992654023069214,0.011055532782876151,4.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,Permutation,Geography,0.007724278597186498,0.011112730188379973,5.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,Permutation,Income,0.1466984420444653,0.05428324488873574,1.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,Permutation,Industry,0.0010468388382771441,0.001234239823385067,6.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,Permutation,Occupation,-0.0021906091861733723,0.012016341163515501,8.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,Permutation,Wealth,0.015597723670377317,0.010665126922077647,2.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,SHAP,Demographics,0.16892165694178812,0.01838348657260637,2.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,SHAP,Education,0.04608118760243398,0.03203007546237412,8.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,SHAP,Family / employment,0.08767457286771202,0.03402145923827448,5.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,SHAP,Geography,0.09006179276254497,0.031207989689644278,4.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,SHAP,Income,0.3612944776667504,0.04738915810487029,1.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,SHAP,Industry,0.05201956452239855,0.03532098708779408,7.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,SHAP,Occupation,0.06814852340043312,0.014871527282272876,6.0
+Relative,DV3,Up 30 pp,Up,30,Gradient Boosting,SHAP,Wealth,0.1257982242359389,0.02814375124886501,3.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,Impurity,Demographics,0.17540325148757482,0.02266628222585845,2.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,Impurity,Education,0.05373626540693387,0.008928738146340924,8.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,Impurity,Family / employment,0.05837884964367045,0.030307792520747355,7.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,Impurity,Geography,0.0712783042437537,0.010426184042053303,4.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,Impurity,Income,0.3493404965864694,0.053003189384897245,1.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,Impurity,Industry,0.058953175095995736,0.026509276490903302,6.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,Impurity,Occupation,0.06931681752508087,0.028324661206594617,5.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,Impurity,Wealth,0.1635928400105212,0.02145894216270308,3.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,Permutation,Demographics,0.01880756905956395,0.010019696039029786,2.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,Permutation,Education,-0.0031084257308552077,0.00507070843309852,8.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,Permutation,Family / employment,0.007959881058504788,0.009072587073689332,5.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,Permutation,Geography,0.008718095939557826,0.008921726846108381,4.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,Permutation,Income,0.13299186984064243,0.053448840279075475,1.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,Permutation,Industry,0.0005575530581145404,0.002744857015950127,6.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,Permutation,Occupation,0.0003241192527056912,0.009266148449681225,7.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,Permutation,Wealth,0.017494096253421923,0.016943570639332065,3.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,SHAP,Demographics,0.1717963025771168,0.017635753438016277,2.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,SHAP,Education,0.05441824334421369,0.016004379855342022,7.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,SHAP,Family / employment,0.10623497002958582,0.03816556182625994,4.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,SHAP,Geography,0.08674019480447412,0.027921053996772135,5.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,SHAP,Income,0.34017997401870603,0.044554108721540794,1.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,SHAP,Industry,0.04779932682922553,0.026014731877065978,8.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,SHAP,Occupation,0.057491934863275994,0.02283281977920225,6.0
+Relative,DV3,Up 30 pp,Up,30,Random Forest,SHAP,Wealth,0.1353390535334021,0.03854220647652499,3.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,Impurity,Demographics,0.14830451516929782,0.028975289940480813,3.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,Impurity,Education,0.046450040506255195,0.021618676944322606,5.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,Impurity,Family / employment,0.03849673587318311,0.02339339281792443,6.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,Impurity,Geography,0.029720865790267885,0.0029414849718912253,8.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,Impurity,Income,0.37579160727778954,0.021641243662370007,1.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,Impurity,Industry,0.038080951271959686,0.012594556836015744,7.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,Impurity,Occupation,0.07546669227741062,0.024894467061039125,4.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,Impurity,Wealth,0.24768859183383599,0.0076060484957057965,2.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,Permutation,Demographics,0.017703235999048775,0.024792055182266577,3.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,Permutation,Education,0.001119192320294484,0.019788710028695405,5.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,Permutation,Family / employment,0.0029542219505112343,0.005134503289968704,4.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,Permutation,Geography,-0.005152232736097371,0.006816301304006532,7.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,Permutation,Income,0.15050448804143374,0.018405681340486004,1.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,Permutation,Industry,-0.00661980547526866,0.006150890191664654,8.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,Permutation,Occupation,-0.003216461097322957,0.003919574311049005,6.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,Permutation,Wealth,0.049572919500667764,0.04302309351387928,2.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,SHAP,Demographics,0.1306211561783958,0.022485864737558914,3.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,SHAP,Education,0.09803003125640922,0.02700149996457935,4.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,SHAP,Family / employment,0.04188021941845527,0.026607871331627536,8.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,SHAP,Geography,0.04513789615305729,0.009902437772200045,7.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,SHAP,Income,0.3677993398188123,0.03264106715713457,1.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,SHAP,Industry,0.05856145576867239,0.012897980130139609,6.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,SHAP,Occupation,0.06805719548432737,0.014488657833607997,5.0
+Relative,DV4,Up 40 pp,Up,40,Gradient Boosting,SHAP,Wealth,0.18991270592187043,0.017571348039139807,2.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,Impurity,Demographics,0.172399811628848,0.004843545458276267,3.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,Impurity,Education,0.06552081653040057,0.013577160971614785,5.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,Impurity,Family / employment,0.04863813386315567,0.015930134364419785,8.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,Impurity,Geography,0.0596581933516376,0.011360862595124997,7.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,Impurity,Income,0.3123453415316113,0.06661240338274765,1.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,Impurity,Industry,0.062758877025256,0.027712554851933427,6.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,Impurity,Occupation,0.07920719281184471,0.025120895883345182,4.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,Impurity,Wealth,0.1994716332572462,0.021602502223004662,2.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,Permutation,Demographics,0.009138347925096156,0.03404619344738088,3.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,Permutation,Education,-0.0013826260199012743,0.01802116316896142,5.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,Permutation,Family / employment,0.004925353407705174,0.007520148498328307,4.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,Permutation,Geography,-0.005770509119411425,0.011900462604730518,8.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,Permutation,Income,0.14082549148097218,0.012936278642144803,1.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,Permutation,Industry,-0.0016016667236476879,0.005406459217178445,6.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,Permutation,Occupation,-0.0019961625208690095,0.010024744860238147,7.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,Permutation,Wealth,0.05389728553921149,0.052514634437556086,2.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,SHAP,Demographics,0.13288049049262626,0.019687351486707853,3.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,SHAP,Education,0.08367313310820687,0.027309034433413194,4.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,SHAP,Family / employment,0.07777034292564634,0.03410424775594132,5.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,SHAP,Geography,0.05159613190523691,0.017055584193709897,8.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,SHAP,Income,0.3121410279264958,0.062097377386118,1.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,SHAP,Industry,0.058452206878318515,0.020594119929422363,7.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,SHAP,Occupation,0.07556472555997243,0.021880605589765657,6.0
+Relative,DV4,Up 40 pp,Up,40,Random Forest,SHAP,Wealth,0.20792194120349689,0.02941648084467228,2.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,Impurity,Demographics,0.1595748332617298,0.009460534253824858,2.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,Impurity,Education,0.03287136648673631,0.01245292480205232,6.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,Impurity,Family / employment,0.021219318704189218,0.017735601095034026,8.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,Impurity,Geography,0.02272369636988477,0.0073412366736596265,7.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,Impurity,Income,0.5296623822954889,0.028797893056132732,1.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,Impurity,Industry,0.06019648229152459,0.018097993084180912,4.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,Impurity,Occupation,0.04007169212011216,0.003646002171369308,5.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,Impurity,Wealth,0.1336802284703343,0.04645826581407429,3.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,Permutation,Demographics,0.017455553522976685,0.008544686556922561,2.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,Permutation,Education,-0.0014892680429681327,0.0035722900808634562,7.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,Permutation,Family / employment,0.00016449953524146026,0.002371636559264133,4.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,Permutation,Geography,-0.0010750378612349866,0.0038166230242864525,6.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,Permutation,Income,0.18314188976481255,0.02260099497766619,1.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,Permutation,Industry,-0.002809952343090455,0.0037408770034165154,8.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,Permutation,Occupation,-0.0009925573919083962,0.004434338018399498,5.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,Permutation,Wealth,0.003502079838782081,0.009984999436048268,3.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,SHAP,Demographics,0.163190247850716,0.03123829362200948,2.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,SHAP,Education,0.07630111017106793,0.03362341228371651,5.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,SHAP,Family / employment,0.04061180577959948,0.03229373469039858,8.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,SHAP,Geography,0.04394222555601978,0.019402804855620293,7.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,SHAP,Income,0.43004641131899585,0.04643520675020455,1.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,SHAP,Industry,0.09981097482054992,0.03619972980372562,3.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,SHAP,Occupation,0.04882196728056504,0.0032236211365236646,6.0
+Relative,DV5,Down 10 pp,Down,10,Gradient Boosting,SHAP,Wealth,0.09727525722248596,0.046353198122905497,4.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,Impurity,Demographics,0.1813113444282643,0.006387273122503373,3.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,Impurity,Education,0.04840000065468895,0.0017091476731965816,7.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,Impurity,Family / employment,0.02001940138657872,0.003860057533684971,8.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,Impurity,Geography,0.05012965414480495,0.0028447436715543927,4.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,Impurity,Income,0.41826606852453213,0.006433595546138821,1.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,Impurity,Industry,0.04923709551939794,0.004909564242901002,6.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,Impurity,Occupation,0.04973463872271189,0.0027103980119900653,5.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,Impurity,Wealth,0.18290179661902117,0.006996453387138259,2.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,Permutation,Demographics,0.020180598038123145,0.013990227186604238,2.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,Permutation,Education,-0.0019483185872620312,0.003662015821214871,6.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,Permutation,Family / employment,-0.001617913695701537,0.003953762235954761,5.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,Permutation,Geography,-0.005510569516455704,0.004647566277869929,8.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,Permutation,Income,0.19670316600009327,0.02787044810777983,1.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,Permutation,Industry,-0.0020918323448046784,0.00101208616511855,7.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,Permutation,Occupation,0.0003534681754950697,0.0036033573065846944,4.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,Permutation,Wealth,0.005178458055499881,0.0068434140774163675,3.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,SHAP,Demographics,0.1817162213573149,0.01002374969278838,2.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,SHAP,Education,0.059735962296049314,0.011556834533105556,5.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,SHAP,Family / employment,0.028516352501000035,0.011669433381681011,8.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,SHAP,Geography,0.05314408827207566,0.01636373628223283,6.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,SHAP,Income,0.45769121661415485,0.014021551536118218,1.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,SHAP,Industry,0.06100804554600212,0.01192295623602978,4.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,SHAP,Occupation,0.05011931722250026,0.006918795005327959,7.0
+Relative,DV5,Down 10 pp,Down,10,Random Forest,SHAP,Wealth,0.10806879619090282,0.025125309279859172,3.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,Impurity,Demographics,0.13624428910219355,0.023217901106648387,3.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,Impurity,Education,0.04371582014164777,0.020355798911667847,6.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,Impurity,Family / employment,0.011996114030173232,0.005373085364658122,8.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,Impurity,Geography,0.03020844472576938,0.011784388498781977,7.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,Impurity,Income,0.4731044003582234,0.07257509901504888,1.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,Impurity,Industry,0.07503038601481832,0.02413915237817564,4.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,Impurity,Occupation,0.05867432778321728,0.019523612130471924,5.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,Impurity,Wealth,0.17102621784395705,0.020121310158541683,2.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,Permutation,Demographics,0.013556223954697596,0.0082247418896646,2.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,Permutation,Education,0.0038215255497167345,0.0058582000322104305,4.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,Permutation,Family / employment,-0.002254576666556045,0.0031707062482526187,6.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,Permutation,Geography,-0.0032548782335472468,0.0056208386826834406,8.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,Permutation,Income,0.19977158225492486,0.0257683501152488,1.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,Permutation,Industry,-0.002365821071067427,0.0021470832336809055,7.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,Permutation,Occupation,-0.0008568076162415604,0.002726108972857408,5.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,Permutation,Wealth,0.01339646147675124,0.005556103442743322,3.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,SHAP,Demographics,0.12860337397105873,0.016826750048670937,2.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,SHAP,Education,0.08641013340472639,0.03238583337677368,5.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,SHAP,Family / employment,0.01684367985323643,0.008258100469752247,8.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,SHAP,Geography,0.05143625917801307,0.021754053653057215,7.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,SHAP,Income,0.4265613097631423,0.04480456140687068,1.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,SHAP,Industry,0.11163660212703341,0.03855629983589889,3.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,SHAP,Occupation,0.07105050423560452,0.007536816269629439,6.0
+Relative,DV6,Down 20 pp,Down,20,Gradient Boosting,SHAP,Wealth,0.10745813746718505,0.013236760091468866,4.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,Impurity,Demographics,0.1692467531694462,0.007775089164607458,3.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,Impurity,Education,0.05112101829288829,0.003502281901178085,6.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,Impurity,Family / employment,0.01655194031793699,0.004028098591752333,8.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,Impurity,Geography,0.056603070216875474,0.005092124650998015,4.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,Impurity,Income,0.40604372673630407,0.011547125876857623,1.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,Impurity,Industry,0.05083414957403749,0.0021209359972295806,7.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,Impurity,Occupation,0.05255735045940604,0.0031132742649935133,5.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,Impurity,Wealth,0.19704199123310545,0.008755635925395683,2.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,Permutation,Demographics,0.014065212985200104,0.006756346087842404,3.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,Permutation,Education,0.0010299119641412602,0.0044899390385092774,5.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,Permutation,Family / employment,-0.0021785070916086114,0.0019477349351411377,7.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,Permutation,Geography,0.0017391727717730743,0.007700369149725448,4.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,Permutation,Income,0.20913421988375128,0.03493718551882787,1.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,Permutation,Industry,-0.002841293025957446,0.006215982879064127,8.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,Permutation,Occupation,0.00029872594038966697,0.003633655996407358,6.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,Permutation,Wealth,0.022625359283913883,0.013491666145363691,2.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,SHAP,Demographics,0.1379678209389143,0.021302510153711755,3.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,SHAP,Education,0.06743943898871178,0.013418049679376707,6.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,SHAP,Family / employment,0.01946499110494259,0.010634203215708982,8.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,SHAP,Geography,0.07055448202448207,0.017133630237453793,4.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,SHAP,Income,0.441462271211955,0.007236386589780574,1.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,SHAP,Industry,0.06969298357011112,0.005444834286631205,5.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,SHAP,Occupation,0.05092735913098453,0.0011987907543483365,7.0
+Relative,DV6,Down 20 pp,Down,20,Random Forest,SHAP,Wealth,0.1424906530298986,0.02034198802570143,2.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,Impurity,Demographics,0.13578136791059414,0.035618408922389114,3.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,Impurity,Education,0.032912650786865526,0.009738167470315197,7.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,Impurity,Family / employment,0.010649792976357791,0.006627991462043337,8.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,Impurity,Geography,0.03755076066859477,0.00569313021413104,6.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,Impurity,Income,0.4575412723057002,0.043447919417194295,1.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,Impurity,Industry,0.06365111818661366,0.006203037776342964,4.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,Impurity,Occupation,0.05054775529704518,0.012671656291445677,5.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,Impurity,Wealth,0.21136528186822873,0.019208483651222685,2.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,Permutation,Demographics,0.003426619945228045,0.009980665446639982,4.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,Permutation,Education,-0.0005207593928824895,0.009248706396965891,6.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,Permutation,Family / employment,-0.00180633655951171,0.0036737557446010994,7.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,Permutation,Geography,0.0009816799575780744,0.0072190989483368615,5.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,Permutation,Income,0.16477343912072676,0.032187455936037064,1.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,Permutation,Industry,0.003640777882641913,0.004395644591577932,3.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,Permutation,Occupation,-0.004415760869205254,0.007806922650648415,8.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,Permutation,Wealth,0.013260643934352603,0.015864160685357127,2.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,SHAP,Demographics,0.10327772657432455,0.030618601645077605,3.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,SHAP,Education,0.07641987034901924,0.03487703965555157,6.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,SHAP,Family / employment,0.014171988662863594,0.00944070336498351,8.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,SHAP,Geography,0.08488029194635405,0.025835683123800114,5.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,SHAP,Income,0.44682777200267065,0.033038820700170515,1.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,SHAP,Industry,0.09989496065579709,0.007990204839562717,4.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,SHAP,Occupation,0.0590279266499095,0.023337394746993815,7.0
+Relative,DV7,Down 30 pp,Down,30,Gradient Boosting,SHAP,Wealth,0.11549946315906127,0.03575344477833589,2.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,Impurity,Demographics,0.15002096192165598,0.010056292645840325,3.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,Impurity,Education,0.05191325515489788,0.006173270574042794,7.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,Impurity,Family / employment,0.014575431444743828,0.006033094728679787,8.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,Impurity,Geography,0.05784040718921481,0.007026657090358466,6.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,Impurity,Income,0.3982238382196889,0.030241361846177924,1.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,Impurity,Industry,0.07087144962277271,0.01489380640431112,4.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,Impurity,Occupation,0.06310011797229005,0.012841431598682647,5.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,Impurity,Wealth,0.19345453847473595,0.014450963570127791,2.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,Permutation,Demographics,0.013283210283027602,0.021504118429703668,2.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,Permutation,Education,-0.002166053939602294,0.0054292243613786794,6.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,Permutation,Family / employment,-0.0027031855638158255,0.004800726711331529,7.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,Permutation,Geography,0.002367028075145705,0.0040802897102719315,5.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,Permutation,Income,0.17149499881347222,0.031239793557134903,1.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,Permutation,Industry,0.006471875327293972,0.007592327074902304,4.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,Permutation,Occupation,-0.0081591007578226,0.007344377370538523,8.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,Permutation,Wealth,0.011476205989966853,0.0049085506619720425,3.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,SHAP,Demographics,0.10762995603558931,0.00886821086684089,3.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,SHAP,Education,0.07116465616596206,0.019520627502277326,6.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,SHAP,Family / employment,0.02403918733455406,0.010411604525340463,8.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,SHAP,Geography,0.09620443445144666,0.010664025123399192,4.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,SHAP,Income,0.41172685259642555,0.036294200947327084,1.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,SHAP,Industry,0.09601996978323592,0.025279973054586104,5.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,SHAP,Occupation,0.0698376636132936,0.019435837787435534,7.0
+Relative,DV7,Down 30 pp,Down,30,Random Forest,SHAP,Wealth,0.12337728001949277,0.032678441449839446,2.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,Impurity,Demographics,0.13698821059014107,0.02311054581767228,3.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,Impurity,Education,0.031943463757915194,0.010296744513399483,7.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,Impurity,Family / employment,0.008138447640011839,0.0031258317719354565,8.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,Impurity,Geography,0.05167508792027845,0.012024643801031465,5.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,Impurity,Income,0.3835969420054285,0.01828885137636102,1.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,Impurity,Industry,0.09832682790208723,0.015893389148637426,4.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,Impurity,Occupation,0.04985646157231218,0.010757000968449306,6.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,Impurity,Wealth,0.23947455861182557,0.03934077282777207,2.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,Permutation,Demographics,0.012197644950610608,0.00993809164480999,3.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,Permutation,Education,0.0012694433571991248,0.003632566789355796,6.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,Permutation,Family / employment,-0.0005050782076005145,0.002258352441529361,7.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,Permutation,Geography,0.002304459573450873,0.008563721626121498,5.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,Permutation,Income,0.1513488293539254,0.05233664394561664,1.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,Permutation,Industry,0.02904941249107325,0.013765630657894589,2.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,Permutation,Occupation,-0.0031376360401622837,0.005943179323985441,8.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,Permutation,Wealth,0.006242966347430056,0.013962807130654706,4.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,SHAP,Demographics,0.09734397922493916,0.009413245733603571,5.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,SHAP,Education,0.05220904604091697,0.012248751593923283,7.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,SHAP,Family / employment,0.008114803118987258,0.0027090947408317453,8.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,SHAP,Geography,0.12215220511285159,0.02468859884723443,4.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,SHAP,Income,0.3558015928002118,0.025754853669392095,1.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,SHAP,Industry,0.15667353596995717,0.029107277781181228,2.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,SHAP,Occupation,0.0739016048246238,0.014231381155780005,6.0
+Relative,DV8,Down 40 pp,Down,40,Gradient Boosting,SHAP,Wealth,0.13380323290751223,0.040131312742614465,3.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,Impurity,Demographics,0.1593318388382412,0.013940590089179975,3.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,Impurity,Education,0.05314763752191476,0.008600846742977359,7.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,Impurity,Family / employment,0.012820974480407999,0.005052273615927137,8.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,Impurity,Geography,0.07379656430479617,0.013046966883317353,5.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,Impurity,Income,0.3451417393338601,0.040326526701909664,1.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,Impurity,Industry,0.08930542148597054,0.023239306741620717,4.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,Impurity,Occupation,0.06661722502554349,0.008326564318310324,6.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,Impurity,Wealth,0.1998385990092657,0.01737244528961351,2.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,Permutation,Demographics,0.011785060398985558,0.014309357013879809,3.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,Permutation,Education,-0.0017386515670621328,0.004055889932712003,6.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,Permutation,Family / employment,-0.002036651533065907,0.004024227093380822,7.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,Permutation,Geography,0.005607727597401501,0.00982201443568543,4.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,Permutation,Income,0.14940972982244363,0.05328359682554649,1.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,Permutation,Industry,0.01956708063650021,0.006708168167080478,2.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,Permutation,Occupation,-0.002084240244863219,0.006011452602731269,8.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,Permutation,Wealth,0.005396138558714058,0.0201934747265404,5.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,SHAP,Demographics,0.09920249339615066,0.0216552172672774,5.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,SHAP,Education,0.05244791144534011,0.011822507017302574,7.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,SHAP,Family / employment,0.013959438309502059,0.006658579026724679,8.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,SHAP,Geography,0.13118765038880445,0.040368221969698324,3.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,SHAP,Income,0.36722525044897897,0.05836519421601123,1.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,SHAP,Industry,0.13354692040463445,0.041868185904386096,2.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,SHAP,Occupation,0.07141170349684536,0.012208756586532272,6.0
+Relative,DV8,Down 40 pp,Down,40,Random Forest,SHAP,Wealth,0.13101863210974393,0.03899982815659631,4.0

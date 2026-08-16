@@ -1,0 +1,4 @@
+Contrast,Estimate,Lower,Upper,BootstrapProbabilityPositive,BootstrapType,BootstrapReps
+Wealth permutation importance: +40 minus +10,0.06201138775241,0.039001293588717165,0.08645047882364507,1.0,Fixed-model held-out family-cluster bootstrap,250
+Wealth share of income+wealth importance: +40 minus +10,0.28961687699969463,0.1350921237093282,0.5136010341603988,1.0,Fixed-model held-out family-cluster bootstrap,250
+Linear trend in wealth permutation importance per additional 10 pp,0.019475964466188732,0.012340128398759021,0.027043228916377202,1.0,Fixed-model held-out family-cluster bootstrap,250

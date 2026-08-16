@@ -1,0 +1,73 @@
+Family,Outcome,Label,Method,RF_GB_Spearman
+Relative,DV1,Up 10 pp,Impurity,1.0
+Relative,DV1,Up 10 pp,Permutation,0.9761904761904763
+Relative,DV1,Up 10 pp,SHAP,1.0
+Relative,DV2,Up 20 pp,Impurity,0.9761904761904763
+Relative,DV2,Up 20 pp,Permutation,0.880952380952381
+Relative,DV2,Up 20 pp,SHAP,0.7857142857142858
+Relative,DV3,Up 30 pp,Impurity,0.8571428571428572
+Relative,DV3,Up 30 pp,Permutation,0.9285714285714287
+Relative,DV3,Up 30 pp,SHAP,0.9523809523809524
+Relative,DV4,Up 40 pp,Impurity,0.9285714285714287
+Relative,DV4,Up 40 pp,Permutation,0.9285714285714287
+Relative,DV4,Up 40 pp,SHAP,0.8571428571428572
+Relative,DV5,Down 10 pp,Impurity,0.8095238095238096
+Relative,DV5,Down 10 pp,Permutation,0.9047619047619048
+Relative,DV5,Down 10 pp,SHAP,0.9523809523809524
+Relative,DV6,Down 20 pp,Impurity,0.7857142857142858
+Relative,DV6,Down 20 pp,Permutation,0.7380952380952381
+Relative,DV6,Down 20 pp,SHAP,0.7619047619047621
+Relative,DV7,Down 30 pp,Impurity,1.0
+Relative,DV7,Down 30 pp,Permutation,0.9285714285714287
+Relative,DV7,Down 30 pp,SHAP,0.9761904761904763
+Relative,DV8,Down 40 pp,Impurity,1.0
+Relative,DV8,Down 40 pp,Permutation,0.9761904761904763
+Relative,DV8,Down 40 pp,SHAP,0.9761904761904763
+Parent-child absolute,I1,Up $5k,Impurity,0.8571428571428572
+Parent-child absolute,I1,Up $5k,Permutation,0.7857142857142858
+Parent-child absolute,I1,Up $5k,SHAP,0.8333333333333335
+Parent-child absolute,I2,Up $10k,Impurity,0.7857142857142858
+Parent-child absolute,I2,Up $10k,Permutation,0.8333333333333335
+Parent-child absolute,I2,Up $10k,SHAP,0.8571428571428572
+Parent-child absolute,I3,Up $15k,Impurity,0.7380952380952381
+Parent-child absolute,I3,Up $15k,Permutation,0.8333333333333335
+Parent-child absolute,I3,Up $15k,SHAP,0.8333333333333335
+Parent-child absolute,I4,Up $20k,Impurity,0.9761904761904763
+Parent-child absolute,I4,Up $20k,Permutation,0.8571428571428572
+Parent-child absolute,I4,Up $20k,SHAP,0.8571428571428572
+Parent-child absolute,I5,Down $5k,Impurity,0.9523809523809524
+Parent-child absolute,I5,Down $5k,Permutation,0.9523809523809524
+Parent-child absolute,I5,Down $5k,SHAP,0.9523809523809524
+Parent-child absolute,I6,Down $10k,Impurity,0.8333333333333335
+Parent-child absolute,I6,Down $10k,Permutation,0.7857142857142858
+Parent-child absolute,I6,Down $10k,SHAP,0.7380952380952381
+Parent-child absolute,I7,Down $15k,Impurity,0.9047619047619048
+Parent-child absolute,I7,Down $15k,Permutation,0.9761904761904763
+Parent-child absolute,I7,Down $15k,SHAP,0.9761904761904763
+Parent-child absolute,I8,Down $20k,Impurity,0.6428571428571429
+Parent-child absolute,I8,Down $20k,Permutation,0.8095238095238096
+Parent-child absolute,I8,Down $20k,SHAP,0.6904761904761906
+Benchmark,A1,Up $5k,Impurity,1.0
+Benchmark,A1,Up $5k,Permutation,0.9047619047619048
+Benchmark,A1,Up $5k,SHAP,0.880952380952381
+Benchmark,A2,Up $10k,Impurity,1.0
+Benchmark,A2,Up $10k,Permutation,0.880952380952381
+Benchmark,A2,Up $10k,SHAP,0.9047619047619048
+Benchmark,A3,Up $15k,Impurity,0.9761904761904763
+Benchmark,A3,Up $15k,Permutation,0.8095238095238096
+Benchmark,A3,Up $15k,SHAP,0.9047619047619048
+Benchmark,A4,Up $20k,Impurity,0.9047619047619048
+Benchmark,A4,Up $20k,Permutation,1.0
+Benchmark,A4,Up $20k,SHAP,0.9761904761904763
+Benchmark,A5,Down $5k,Impurity,1.0
+Benchmark,A5,Down $5k,Permutation,0.9761904761904763
+Benchmark,A5,Down $5k,SHAP,0.9761904761904763
+Benchmark,A6,Down $10k,Impurity,1.0
+Benchmark,A6,Down $10k,Permutation,0.9285714285714287
+Benchmark,A6,Down $10k,SHAP,0.9285714285714287
+Benchmark,A7,Down $15k,Impurity,0.9761904761904763
+Benchmark,A7,Down $15k,Permutation,1.0
+Benchmark,A7,Down $15k,SHAP,0.9523809523809524
+Benchmark,A8,Down $20k,Impurity,0.9761904761904763
+Benchmark,A8,Down $20k,Permutation,0.9285714285714287
+Benchmark,A8,Down $20k,SHAP,1.0
