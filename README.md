@@ -14,7 +14,8 @@ This repository contains the code, data documentation, cleaned analysis files, a
 ├── code/
 │   ├── psidcleaning.do
 │   ├── WMU.py
-│   └── WMU_additional_robustness.py
+│   ├── WMU_additional_robustness.py
+│   └── summarize_income_vs_others.py
 ├── data/
 │   ├── J359896.xlsx
 │   ├── J359896_codebook.pdf
@@ -96,6 +97,15 @@ Additional robustness and wealth analyses. This script is intended to be run aft
 5. cluster-bootstrap uncertainty for changes in predictor importance; and
 6. rank-standardized realized mobility comparisons across parental-wealth groups.
 
+### `summarize_income_vs_others.py`
+
+Post-estimation script that uses the saved predictor-importance results in
+`results/A7_A8_importance_summary.csv` to compare parental income with all
+other parental-background characteristics combined. The calculation uses
+normalized impurity and SHAP importance; permutation importance is excluded
+because groupwise permutation losses are not additive. The script does not
+re-estimate any models.
+
 ## Software requirements
 
 The cleaning step requires **Stata**.
@@ -159,8 +169,13 @@ Using repository-relative paths is recommended.
    ```bash
    python code/WMU_additional_robustness.py
    ```
+7. Run the summarize income importance relative to other factors code:
 
-7. Generated tables, numerical results, and figures are written to `results/`.
+   ```bash
+   summarize_income_vs_others.py
+   ```
+
+8. Generated tables, numerical results, and figures are written to `results/`.
 
 ### Starting from the cleaned data
 
@@ -182,6 +197,7 @@ cv_structure_robustness.csv
 figure27_relative_importance.pdf
 figure28_absolute_importance.pdf
 figure29_benchmark_importance.pdf
+A7_A8_importance_summary.csv
 ```
 
 It also produces the principal figures used in the paper and appendix.
