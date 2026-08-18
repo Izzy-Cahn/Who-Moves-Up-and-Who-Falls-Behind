@@ -1,8 +1,8 @@
-# Who Moves Up and Who Falls Behind?
+# Who Moves Up or Who Falls Behind?
 
 Replication files for:
 
-**Cahn, Yisroel and Esfandiar Maasoumi. _Who Moves Up and Who Falls Behind? Income, Wealth, and Heterogeneous Intergenerational Mobility._**
+**Cahn, Yisroel and Esfandiar Maasoumi. _Who Moves Up or Who Falls Behind? Income, Wealth, and Heterogeneous Intergenerational Mobility._**
 
 This repository contains the code, data documentation, cleaned analysis files, and results used in the paper. The analysis uses linked parent-child observations from the Panel Study of Income Dynamics (PSID) to study heterogeneity in intergenerational mobility. The main empirical approach estimates conditional probabilities of economically meaningful mobility events using parental income, wealth, and other family circumstances.
 
